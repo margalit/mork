@@ -5,8 +5,8 @@ collections:
   chocolates:
     title: Chocolates
     output: false
-  posts:
-    title: Posts
+  news:
+    title: News
     output: true
   uploads:
     title: Uploads
