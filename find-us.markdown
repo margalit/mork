@@ -1,6 +1,6 @@
 ---
 title: Find Us
-date: 2014-05-31 12:41:00 +10:00
+date: 2014-05-31 02:41:00 Z
 assets:
 - path: "/uploads/contact2.jpg"
   name: contact2

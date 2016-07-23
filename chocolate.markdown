@@ -1,5 +1,6 @@
 ---
 title: Chocolate
-date: 2014-05-31 12:40:00 +10:00
+date: 2014-05-31 02:40:00 Z
 layout: chocolate
 ---
+
