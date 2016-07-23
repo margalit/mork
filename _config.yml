@@ -5,9 +5,6 @@ collections:
   chocolate:
     title: Chocolate
     output: true
-  news:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
