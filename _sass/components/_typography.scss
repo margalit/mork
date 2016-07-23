@@ -1,0 +1,227 @@
+html{
+-webkit-font-smoothing: antialiased;
+}
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+.char24{margin-left: 0.1em;
+}
+
+.article-title {
+    border: 0.3em solid #fff;
+}
+
+.article-title h1{
+    color: #fff;    
+text-transform: uppercase;
+letter-spacing: 0.05em;
+text-align: center;
+    font-weight: 700;
+border: 1px dashed #ccc;
+display: block;
+margin:  5px;
+padding: 0.5em;
+line-height: 1.2em;
+word-spacing: 0.1em;
+}
+
+h2{
+    display: block;
+    color: #000;
+    }
+
+h1, footer{
+    font-family: "brandon-grotesque",sans-serif;
+    font-style: normal;
+}
+
+ul{
+font-family: "source-sans-pro",sans-serif;
+font-style: normal;
+font-weight: 600;
+color: #444;
+}
+
+.content{
+font-family: "source-sans-pro",sans-serif;
+font-style: normal;
+font-weight: 400;
+color: #444;
+word-spacing: 0.1em;
+letter-spacing: .05em;
+}
+
+.content a{
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px dashed #666;
+}
+
+.content a:hover{
+    border-bottom: 1px solid #ccc;
+}
+
+.content .box h2{
+    border-top: 0.2em solid #000;
+    padding-top: 18px;
+}
+
+.HomePage .content .box h2{
+    border-top: 0;
+    padding-top: 0;
+}
+
+.box h2{
+    margin-bottom: 0;
+font-style: normal;
+}
+
+footer h2{
+    font-size: 18px;
+}
+
+footer .copy h2{
+    margin-bottom: 15px;
+}
+
+footer .copy a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 15px;
+    border: 1px dashed #fff;
+}
+
+footer .copy a:hover{
+    color: #000;
+    background: #fff;
+    border: 1px solid #fff;
+    font-weight: 700;
+}
+
+.box article{
+    margin-top: 0.5em;
+}
+.line{display: block;}
+
+ul{
+    padding: 0;
+    margin-bottom: 0;
+}
+
+footer{
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 0.6em;
+    color: #fff;
+}
+
+    .button{
+    padding: 4px 6px;
+    background: none;
+    border: 1px dashed #ccc;
+    color: #fff;
+    font-family: "brandon-grotesque",sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    margin: 10px;
+    }
+    .email{
+    padding: 4px;
+    background: #aaa;
+    border: 1px solid #444;
+    }
+
+footer h2{
+    color: #fff;
+}
+
+footer .box{
+    letter-spacing: 0.3em;
+}
+
+
+.social a {
+    display: inline-block;
+    position: relative;
+    width: 40px;
+    height: 40px;
+    margin: 0 5px;
+    font-size: 18px;
+    line-height: 46px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.social article {
+    margin-top: 0;
+    cursor: pointer;
+    display: block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #eee;
+
+    -webkit-box-shadow: 0 0 6px -2px #000, 0 0 45px -20px #000;
+    box-shadow: 0 0 6px -2px #000, 0 0 45px -20px #000;
+    color: #fff;
+
+    transition: transform 0.4s linear, background-color 0s linear 0.2s, color 0s linear 0.2s;
+}
+
+a:hover  article {
+    color: #eee;
+    transition: transform 0.2s linear, background-color 0s linear 0.1s, color 0s linear 0.1s;
+}
+
+a:nth-child(1):hover article {
+    background-color: #3B5998;
+}
+
+a:nth-child(2):hover article {
+    background-color: #00ACED;
+}
+
+a:nth-child(3):hover article {
+    background-color: #3F729B;
+}
+
+.social span {
+    -webkit-transition: -webkit-transform 0s linear 0.2s, text-shadow 0s linear 0.2s;
+    -webkit-transition: -webkit-transform 0s linear 0.2s, text-shadow 0s linear 0.2s;
+    -webkit-transition: -webkit-transform 0s linear 0.2s, text-shadow 0s linear 0.2s;
+    -webkit-transition: -webkit-transform 0s linear 0.2s, text-shadow 0s linear 0.2s;
+    transition: transform 0s linear 0.2s, text-shadow 0s linear 0.2s;
+    display: block;
+    font-smoothing: antialiased;
+}
+
+a:hover span {
+
+}
+.links {  font-family: "SSSocial";
+  transition: all .5s cubic-bezier(1.000, -0.360, 0.000, 1.385); /* custom */
+  transition-timing-function: cubic-bezier(1.000, -0.360, 0.000, 1.385); /* custom */
+  }
+
+.social i a{
+    color: #999;
+    text-decoration: none;
+    font-size: 16px;
+       -webkit-transition:color 0.3s ease-in;
+}
+
+footer .social i a{
+    padding: 5px;
+
+}
+
+header .social i a{
+    padding-left: 10px;
+}

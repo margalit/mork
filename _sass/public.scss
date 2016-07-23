@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+// // Webfonts ----------------------------
+
+// // Variables ---------------------------
+// @import "globals";
+
+// // Patterns ----------------------------
+
+// // Load patterns
+@import "patterns/all";
+
+// // Call patterns
+// @include reset();
+@include smooth-font-loading();
+
+// // Base --------------------------------
+// @import "base";
+
+// Vendor
+@import "vendor/normalize";
+@import "vendor/ss-social";
+
+// Old Components -------------------------
+@import "components/archive";
+@import "components/typography";
+
+// New Components -------------------------
+@import "components/locator";
+@import "components/news";
+
+
+.ChocolatePage .content .box {
+  @media screen and (min-width: 780px) {
+    float: left;
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 48%;
+  }
+  @media screen and (min-width: 1280px) {
+    float: left;
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 23%;
+    padding: 0;
+  }
+  h2 {
+    font-size: 1.1em;
+  }
+  a.sale {
+    font-size: 0.8em;
+  }
+}
