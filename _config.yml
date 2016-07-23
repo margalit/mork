@@ -5,9 +5,6 @@ collections:
   chocolate:
     title: Chocolate
     output: true
-  find-us:
-    title: Find Us
-    output: true
   news:
     title: News
     output: true
