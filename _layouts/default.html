@@ -1,0 +1,21 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+
+  <body class="{{page.title}}Page" style="background-attachment: fixed; background-image: url({{page.background_image}}); background-size: cover; background-position: {{page.background_position|default: center}}">
+
+    <div class="main">
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+    </div>
+    <script type="text/javascript" src="/assets/main.js"></script>
+    {% include localemodal.html %}
+  </body>
+
+</html>

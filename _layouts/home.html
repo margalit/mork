@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="article-title cf">
+  <h1>Pure Handcrafted Chocolate Blends</h1>
+</article>
+<div class="content row cf">
+  {% for page in page['pages'] %}
+    {% for column in site.pages %}
+    {% if column.title == page %}
+      <article class="box one col">
+        <h2>{{column.title}}</h2>
+        <p>{{column.excerpt}}</p>
+        <h4><a href="{{column.url}}">Read More {{column.title}}</a></h4>
+      </article>
+    {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>

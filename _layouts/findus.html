@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="regular content row cf">
+  <article class="threequart">
+  <h2>{{page.title}}</h2>
+  <article>
+    {{page.content | markdownify}}
+  </article>
+  <div class="locator__list">
+    {% assign sorted_retailers = page.retailers | sort:'store' %}
+    {% for retailer in sorted_retailers %}
+      <div class="locator__item">
+        {% if retailer.website %}
+          <a href="{{ post.meta['Website'] }}">{{retailer.store}}</a>
+        {% else %}
+          <span>{{retailer.store}}</span>
+        {% endif %}
+        <p>{{retailer.address_1}}<br/>{{retailer.address_2}}</p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
