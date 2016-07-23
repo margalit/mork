@@ -5,9 +5,6 @@ collections:
   chocolates:
     title: Chocolates
     output: false
-  posts:
-    title: Posts
-    output: true
   uploads:
     title: Uploads
     output: true
@@ -17,7 +14,7 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+    permalink: "/news/:title/"
 - scope:
     path: ''
     type: pages
