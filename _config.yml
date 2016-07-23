@@ -3,8 +3,8 @@ title: Mörk Chocolate
 timezone: Melbourne
 collections:
   chocolates:
-    title: Chocolate
-    output: true
+    title: Chocolates
+    output: false
   posts:
     title: Posts
     output: true
