@@ -1,6 +1,6 @@
 ---
 title: Mörk Chocolate
-timezone: Melbourne
+timezone: UTC
 collections:
   chocolates:
     title: Chocolates
@@ -16,19 +16,11 @@ defaults:
     path: ''
     type: posts
   values:
+    layout: post
     permalink: "/posts/:title/"
-url: http://mork.siteleaf.net
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 permalink: pretty
-typekit: wwu7klm
-analytics: UA-34047801-1
-markdown: redcarpet
-redcarpet:
-  extensions:
-  - autolink
-  - fenced_code_blocks
-  - lax_spacing
-  - strikethrough
-  - superscript
-  - tables
-  - footnotes
-  - highlight
