@@ -1,6 +1,6 @@
 ---
 title: We are hiring
-date: 2015-01-23 08:07:00 Z
+date: 2015-01-23 19:07:00 +11:00
 featured?: 
 assets:
 - path: "/uploads/800.jpg"

@@ -1,9 +1,6 @@
 ---
 title: Mörk Chocolate X Rooftop Honey
-date: 2014-01-19 01:00:00 Z
-featured?: 
-assets:
-- path: "/uploads/honey_news.jpg"
+date: 2014-01-19 12:00:00 +11:00
 tags:
 - rooftop honey
 - mork chocolate
@@ -13,6 +10,9 @@ tags:
 - morkxrooftophoney
 - buy mork chocolate
 - buy mork
+featured?: 
+assets:
+- path: "/uploads/honey_news.jpg"
 ---
 
 In this collaboration we have teamed up with local beekeepers Melbourne City Rooftop Honey. When we first met founders Vanessa and Mat we instantly got talking about their urban beehives, unique flora in each suburb, and honeyed chocolate concoctions. It was a pairing waiting to happen and with the hives now starting to fill up with new season honey, our Melbourne Honeyed Dark Chocolate was born!

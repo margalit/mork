@@ -1,6 +1,6 @@
 ---
 title: Junior Dark 50%
-date: 2014-06-21 08:18:00 Z
+date: 2014-06-21 18:18:00 +10:00
 cacao: 50%
 variety: Blend
 area: Peru

@@ -1,6 +1,6 @@
 ---
 title: Original Dark 70%
-date: 2014-05-31 04:45:00 Z
+date: 2014-05-31 14:45:00 +10:00
 cacao: 70%
 variety: Trinitario
 area: Sur Del Lago, Venezuela

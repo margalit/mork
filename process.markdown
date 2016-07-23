@@ -1,6 +1,6 @@
 ---
 title: Process
-date: 2014-05-31 02:40:00 Z
+date: 2014-05-31 12:40:00 +10:00
 assets:
 - path: "/uploads/process4.jpg"
   name: process4

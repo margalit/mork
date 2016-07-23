@@ -1,6 +1,6 @@
 ---
 title: Dark Milk & Salt 65%
-date: 2014-05-31 04:46:00 Z
+date: 2014-05-31 14:46:00 +10:00
 cacao: 65%
 variety: Trinitario
 area: Sambirano, Madagascar

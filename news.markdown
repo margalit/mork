@@ -1,6 +1,6 @@
 ---
 title: News
-date: 2014-05-31 02:40:00 Z
+date: 2014-05-31 12:40:00 +10:00
 ---
 
 We’ve got some really exciting news to share.

@@ -1,13 +1,13 @@
 ---
 title: Delicious
-date: 2014-06-06 05:37:00 Z
-featured?: 
-assets:
-- path: "/uploads/delicious-small-blog.jpg"
+date: 2014-06-06 15:37:00 +10:00
 tags:
 - MORK CHOCOLATE
 - DELICIOUS MAGAZINE
 - DELICIOUS.
+featured?: 
+assets:
+- path: "/uploads/delicious-small-blog.jpg"
 ---
 
 Little Mörk making it to readers all across Australia!  

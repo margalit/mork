@@ -1,14 +1,14 @@
 ---
 title: Mörk Brew Guide
-date: 2014-06-06 05:32:00 Z
-featured?: 
-assets:
-- path: "/uploads/IMG-8022WW.jpg"
+date: 2014-06-06 15:32:00 +10:00
 tags:
 - MORK BREW GUIDE
 - HOW TO MAKE MORK CHOCOLATE
 - MORK CHOCOLATE
 - HOT CHOCOLATE MELBOURNE
+featured?: 
+assets:
+- path: "/uploads/IMG-8022WW.jpg"
 ---
 
 We often get asked how to best prepare our hot chocolate. There are only two secrets to the ultimate Mörk hot chocolate. Take notes:

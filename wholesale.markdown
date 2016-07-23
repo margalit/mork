@@ -1,6 +1,6 @@
 ---
 title: Wholesale
-date: 2014-05-31 02:40:00 Z
+date: 2014-05-31 12:40:00 +10:00
 featured?: 'true'
 assets:
 - path: "/uploads/wholesale_16x10-2.jpg"

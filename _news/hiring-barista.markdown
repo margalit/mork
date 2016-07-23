@@ -1,6 +1,6 @@
 ---
 title: Hiring Barista
-date: 2016-02-23 11:00:00 Z
+date: 2016-02-23 22:00:00 +11:00
 featured?: 
 assets:
 - path: "/uploads/HIRING.jpg"

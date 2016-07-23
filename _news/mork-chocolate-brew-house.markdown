@@ -1,6 +1,6 @@
 ---
 title: Mörk Chocolate Brew House
-date: 2015-01-22 10:53:00 Z
+date: 2015-01-22 21:53:00 +11:00
 featured?: 
 assets:
 - path: "/uploads/build.jpg"

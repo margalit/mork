@@ -1,9 +1,6 @@
 ---
 title: Mörk Love
-date: 2014-06-06 05:44:00 Z
-featured?: 
-assets:
-- path: "/uploads/morkmice.jpg"
+date: 2014-06-06 15:44:00 +10:00
 tags:
 - MORK LOVE
 - MORK
@@ -13,6 +10,9 @@ tags:
 - VALENTINES DAY CHOCOLATE
 - CHOCOLATE MELBOURNE
 - MORK MELBOURNE
+featured?: 
+assets:
+- path: "/uploads/morkmice.jpg"
 ---
 
 When little chef Pierre showed up on Instagram some weeks ago, we simply couldn’t resist his charm. Returned here with his Valentine, he melts our dark chocolate hearts once again.

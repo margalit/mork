@@ -1,13 +1,13 @@
 ---
 title: Dark Milk & River Salt 65%
-date: 2014-06-06 05:35:00 Z
-featured?: 
-assets:
-- path: "/uploads/cacao.jpg"
+date: 2014-06-06 15:35:00 +10:00
 tags:
 - MADAGASCAR CHOCOLATE
 - SAMBIRANO VALLEY
 - DARK MILK AND RIVER SALT
+featured?: 
+assets:
+- path: "/uploads/cacao.jpg"
 ---
 
 Our mouth watering new blend is out – Mörk Dark Milk & River Salt 65% made with our new origin chocolate from Sambirano Valley in Madagascar and fused with Murray River salt flakes. This one will have you begging for more.

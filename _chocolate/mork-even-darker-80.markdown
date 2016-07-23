@@ -1,6 +1,6 @@
 ---
 title: Even Darker 85%
-date: 2014-05-31 04:00:00 Z
+date: 2014-05-31 14:00:00 +10:00
 cacao: 85%
 variety: Trinitario
 area: Sur Del Lago, Venezuela

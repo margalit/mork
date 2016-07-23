@@ -1,13 +1,13 @@
 ---
 title: Mörk and Auf Wiedersehen
-date: 2013-06-03 05:27:00 Z
-featured?: 
-assets:
-- path: "/uploads/IMG-8503.jpg"
+date: 2013-06-03 15:27:00 +10:00
 tags:
 - MORK CHOCOLATE
 - MORK TEES
 - AUF WIEDERSEHEN
+featured?: 
+assets:
+- path: "/uploads/IMG-8503.jpg"
 ---
 
 A couple of months ago we were lucky enough to collaborate with local artist Jacqueline Smith, under pseudonym [Auf Wiedersehen](http://www.facebook.com/aufwiedersehenillustrated), for our first ever Mörk tee. She is the self-taught artist behind the illustrations of shy girls, mini landscapes and wearable art of bearded men and floating mountains.

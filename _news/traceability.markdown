@@ -1,6 +1,6 @@
 ---
 title: Traceability in chocolate
-date: 2016-05-18 01:46:00 Z
+date: 2016-05-18 11:46:00 +10:00
 featured?: 'true'
 assets:
 - path: "/uploads/IMG_9095 (1).jpg"
