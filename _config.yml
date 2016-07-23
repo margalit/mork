@@ -1,0 +1,34 @@
+---
+title: Mörk Chocolate
+url: http://mork.siteleaf.net
+timezone: Melbourne
+permalink: pretty
+typekit: wwu7klm
+analytics: UA-34047801-1
+collections:
+  uploads:
+    title: Uploads
+    output: true
+  chocolate:
+    output: true
+  news:
+    output: true
+  find-us:
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/posts/:title/"
+markdown: redcarpet
+redcarpet:
+  extensions:
+  - autolink
+  - fenced_code_blocks
+  - lax_spacing
+  - strikethrough
+  - superscript
+  - tables
+  - footnotes
+  - highlight
