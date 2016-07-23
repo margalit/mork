@@ -6,7 +6,7 @@ collections:
     title: Chocolate
     output: true
   news:
-    title: News
+    title: Posts
     output: true
   posts:
     title: Posts
