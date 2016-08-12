@@ -1,0 +1,26 @@
+---
+title: Chocolate
+layout: default
+---
+
+<div class="range">
+  {% assign chocolates = site.chocolates %}
+  {% for chocolate in chocolates %}
+    <div class="range__item" style="background-image: url('{{chocolate.background_image}}')">
+      <div class="range__content">
+        <img class="range__label" src="{{chocolate.image}}" />
+        <h2 class="range__title">{{chocolate.title}}</h2>
+        <div class="range__description">
+          {{chocolate.content}}
+          {% assign details = chocolate['details'] %}
+          <ul class="range__details">
+            <li class="range__detail">Cacao: <span class="range__value">{{details['cacao']}}</span></li>
+            <li class="range__detail">Variety: <span class="range__value">{{details['variety']}}</span></li>
+            <li class="range__detail">Area: <span class="range__value">{{details['area']}}</span></li>
+          </ul>
+          <a href="{{details['link']}}" class="range__buy">Purchase {{chocolate.title}}</a>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

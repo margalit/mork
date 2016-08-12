@@ -1,0 +1,49 @@
+.reviews {
+  background: #fafafa;
+  padding: 1.5rem 0 2.5rem;
+}
+
+h2.reviews__heading {
+  text-align: center;
+  margin: 0;
+  letter-spacing: 0.2em;
+  text-decoration: none;
+  padding: 0.85rem;
+  text-transform: uppercase;
+  color: #444;
+  font-family: 'brandon-grotesque';
+}
+
+.reviews__content {
+  font-family: "source-sans-pro",sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #444;
+  word-spacing: .05em;
+  letter-spacing: .02em;
+  padding: 0 1em;
+  max-width: 50rem;
+  margin: auto;
+}
+
+.reviews__content p {
+  margin-bottom: 1rem;
+}
+
+.reviews__content a {
+  color: inherit;
+  border-bottom: 1px dotted;
+  text-decoration: none;
+  cursor: pointer;
+  &:hover {
+    border-bottom-style: solid;
+  }
+}
+
+.reviews__content img {
+  display: inline;
+  float: left;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  padding-top: 0.2rem;
+}

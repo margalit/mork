@@ -1,0 +1,37 @@
+---
+title: Mörk Chocolate
+timezone: UTC
+collections:
+  chocolates:
+    title: Chocolates
+    output: false
+  news:
+    title: News
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: news
+  values:
+    layout: post
+    permalink: "/news/:title/"
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/news/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
+typekit: wwu7klm
+analytics: UA-34047801-1

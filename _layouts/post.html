@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+	<div class="regular content row cf">
+		<article class="threequart news-post">
+		<h2 class="news-post__header">{{page.title}}</h2>
+		<div class="news-post__content">
+			{% if page.feature_image %}
+			<img src="{{page.feature_image}}" />
+			{% endif %}
+			{{page.content}}
+			<div class="news-post__share">
+				<span>Share via: </span>
+				<a class="ss-icon" href="http://twitter.com/share?text={{title}} on the Mörk Chocolate Blog:&url={{permalink}}">Twitter</a>
+				<a class="ss-icon" href="http://www.facebook.com/sharer/sharer.php?u=#url">Facebook</a>
+			</div>
+			<a class="news-post__back" href="/news">Back to news</a>
+		</div>
+		</article>
+	</div>
