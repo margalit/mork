@@ -1,6 +1,6 @@
 ---
 title: Housemade Oat Milk Recipe
-date: 2015-04-06 22:14:00 +10:00
+date: 2015-04-06 12:14:00 Z
 tags:
 - oat milk
 - breakfast chocolate
@@ -10,7 +10,7 @@ tags:
 - mork
 - mörk
 - mork melbourne
-featured?:
+featured?: 
 feature_image: "/uploads/breakfast-2.jpg"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Easter Trading Hours
-date: 2015-04-01 08:57:00 +11:00
+date: 2015-03-31 21:57:00 Z
 tags:
 - mork chocolate
 - easter opening hours
@@ -8,7 +8,7 @@ tags:
 - mork
 - north melbourne
 - 150 errol street
-featured?:
+featured?: 
 feature_image: "/uploads/EASTER.jpg"
 ---
 

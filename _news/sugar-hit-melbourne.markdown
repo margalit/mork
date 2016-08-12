@@ -1,12 +1,12 @@
 ---
 title: Sugar Hit Melbourne
-date: 2014-06-06 15:45:00 +10:00
+date: 2014-06-06 05:45:00 Z
 tags:
 - SUGARHITMELB
 - SUGARHIT
 - SUGAR HIT MELBOURNE
 - SUGAR HIT
-featured?:
+featured?: 
 feature_image: "/uploads/sugarhit-blog.jpg"
 ---
 

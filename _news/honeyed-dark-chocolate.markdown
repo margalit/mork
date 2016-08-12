@@ -1,6 +1,6 @@
 ---
 title: Mörk Chocolate X Rooftop Honey
-date: 2014-01-19 12:00:00 +11:00
+date: 2014-01-19 01:00:00 Z
 tags:
 - rooftop honey
 - mork chocolate
@@ -10,7 +10,7 @@ tags:
 - morkxrooftophoney
 - buy mork chocolate
 - buy mork
-featured?:
+featured?: 
 feature_image: "/uploads/honey_news.jpg"
 ---
 

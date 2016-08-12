@@ -1,6 +1,6 @@
 ---
 title: Mörk Love
-date: 2014-06-06 15:44:00 +10:00
+date: 2014-06-06 05:44:00 Z
 tags:
 - MORK LOVE
 - MORK
@@ -10,7 +10,7 @@ tags:
 - VALENTINES DAY CHOCOLATE
 - CHOCOLATE MELBOURNE
 - MORK MELBOURNE
-featured?:
+featured?: 
 feature_image: "/uploads/morkmice.jpg"
 ---
 

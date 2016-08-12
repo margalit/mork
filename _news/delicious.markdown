@@ -1,11 +1,11 @@
 ---
 title: Delicious
-date: 2014-06-06 15:37:00 +10:00
+date: 2014-06-06 05:37:00 Z
 tags:
 - MORK CHOCOLATE
 - DELICIOUS MAGAZINE
 - DELICIOUS.
-featured?:
+featured?: 
 feature_image: "/uploads/delicious-small-blog.jpg"
 ---
 

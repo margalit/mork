@@ -1,12 +1,12 @@
 ---
 title: Mörk Brew Guide
-date: 2014-06-06 15:32:00 +10:00
+date: 2014-06-06 05:32:00 Z
 tags:
 - MORK BREW GUIDE
 - HOW TO MAKE MORK CHOCOLATE
 - MORK CHOCOLATE
 - HOT CHOCOLATE MELBOURNE
-featured?:
+featured?: 
 feature_image: "/uploads/IMG-8022WW.jpg"
 ---
 

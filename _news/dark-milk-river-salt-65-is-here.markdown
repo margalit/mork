@@ -1,6 +1,6 @@
 ---
 title: Dark Milk & River Salt 65%
-date: 2014-06-06 15:35:00 +10:00
+date: 2014-06-06 05:35:00 Z
 tags:
 - MADAGASCAR CHOCOLATE
 - SAMBIRANO VALLEY
