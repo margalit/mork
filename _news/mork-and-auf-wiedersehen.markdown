@@ -5,9 +5,8 @@ tags:
 - MORK CHOCOLATE
 - MORK TEES
 - AUF WIEDERSEHEN
-featured?: 
-assets:
-- path: "/uploads/IMG-8503.jpg"
+featured?:
+feature_image: "/uploads/IMG-8503.jpg"
 ---
 
 A couple of months ago we were lucky enough to collaborate with local artist Jacqueline Smith, under pseudonym [Auf Wiedersehen](http://www.facebook.com/aufwiedersehenillustrated), for our first ever Mörk tee. She is the self-taught artist behind the illustrations of shy girls, mini landscapes and wearable art of bearded men and floating mountains.

@@ -1,15 +1,11 @@
 ---
 title: Wholesale
 date: 2014-05-31 12:40:00 +10:00
-featured?: 'true'
-assets:
-- path: "/uploads/wholesale_16x10-2.jpg"
-  position: center center
-  background-size: cover
+excerpt: There are many things that are common to specialty chocolate and coffee, and we feel strongly that our experience with both have enabled us to bring hot chocolate in Australia - historically a neglected product - up to the same level as the fantastic coffee that is now available in our corner of the world.
+background_image: "/uploads/wholesale_16x10-2.jpg"
 ---
 
 There are many things that are common to specialty chocolate and coffee, and we feel strongly that our experience with both have enabled us to bring hot chocolate in Australia - historically a neglected product - up to the same level as the fantastic coffee that is now available in our corner of the world.
-
 
 Flavour and quality are not the only things that are important to us at Mörk: our commitment to sustainability and transparency guide our choices and actions. We aim to produce a pure, honest chocolate that not only tastes fantastic, but that in return and out of respect for its origin helps better the lives of the people that make it possible.
 

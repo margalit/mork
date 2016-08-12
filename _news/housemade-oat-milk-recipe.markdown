@@ -10,9 +10,8 @@ tags:
 - mork
 - mörk
 - mork melbourne
-featured?: 
-assets:
-- path: "/uploads/breakfast-2.jpg"
+featured?:
+feature_image: "/uploads/breakfast-2.jpg"
 ---
 
 **Housemade Oat Milk Recipe**

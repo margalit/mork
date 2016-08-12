@@ -28,9 +28,11 @@
 // New Components -------------------------
 @import "components/locator";
 @import "components/news";
+@import "components/reviews";
+@import "components/range";
 
 
-.ChocolatePage .content .box {
+.RangePage .content .box {
   @media screen and (min-width: 780px) {
     float: left;
     margin-left: 1%;
@@ -50,4 +52,16 @@
   a.sale {
     font-size: 0.8em;
   }
+}
+
+.threequart ul {
+  padding-left: 1rem;
+}
+
+.threequart ul li {
+  color: white;
+}
+
+.threequart ul li:hover {
+  background: transparent;
 }

@@ -1,6 +1,5 @@
 ---
-title: Chocolate
+title: Our Range
 date: 2014-05-31 02:40:00 Z
-layout: chocolate
+layout: our-range
 ---
-

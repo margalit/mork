@@ -18,9 +18,8 @@ tags:
 - melbourne chocolate
 - wholesale chocolate melbourne
 - wholesale chocolate
-featured?: 
-assets:
-- path: "/uploads/morkchocolate.jpg"
+featured?:
+feature_image: "/uploads/morkchocolate.jpg"
 ---
 
 Winter has arrived, bringing with it cold nights that nearly remind us of Scandinavian winters. No better cure to frost bite than to cuddle up with a hot chocolate and a blanket. Anyone knows that. Try our recipe for a warming hot chocolate and see for yourself. Best of all, it is dairy free.

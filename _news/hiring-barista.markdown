@@ -1,10 +1,8 @@
 ---
 title: Hiring Barista
 date: 2016-02-23 22:00:00 +11:00
-featured?: 
-assets:
-- path: "/uploads/HIRING.jpg"
-  name: HIRING
+featured?:
+feature_image: "/uploads/HIRING.jpg"
 ---
 
 **Mörk Chocolate Brew House, North Melbourne**
@@ -25,7 +23,7 @@ assets:
 **Be an important part of our tasting panel for developing new tasting experiences**
 
 **Part time to full time hours are available**
- 
+
 
 ## Candidates for this role would possess the following attributes:
 
@@ -38,7 +36,7 @@ assets:
 **Confident and quick to learn**
 
 **Bar experience in a fast paced specialty beverage venue**
- 
+
 
 When applying please specify that you have the right to work in Australia, including any visa terms and limitations.
 

@@ -5,9 +5,8 @@ tags:
 - MORK CHOCOLATE
 - DELICIOUS MAGAZINE
 - DELICIOUS.
-featured?: 
-assets:
-- path: "/uploads/delicious-small-blog.jpg"
+featured?:
+feature_image: "/uploads/delicious-small-blog.jpg"
 ---
 
 Little Mörk making it to readers all across Australia!  

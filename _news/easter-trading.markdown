@@ -8,9 +8,8 @@ tags:
 - mork
 - north melbourne
 - 150 errol street
-featured?: 
-assets:
-- path: "/uploads/EASTER.jpg"
+featured?:
+feature_image: "/uploads/EASTER.jpg"
 ---
 
 MÖRK CHOCOLATE BREW HOUSE

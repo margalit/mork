@@ -5,7 +5,9 @@ layout: default
 		<article class="threequart news-post">
 		<h2 class="news-post__header">{{page.title}}</h2>
 		<div class="news-post__content">
-			<img src="{{assets | first}}">
+			{% if page.feature_image %}
+			<img src="{{page.feature_image}}" />
+			{% endif %}
 			{{page.content}}
 			<div class="news-post__share">
 				<span>Share via: </span>

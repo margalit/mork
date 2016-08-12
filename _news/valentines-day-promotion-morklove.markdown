@@ -10,9 +10,8 @@ tags:
 - VALENTINES DAY CHOCOLATE
 - CHOCOLATE MELBOURNE
 - MORK MELBOURNE
-featured?: 
-assets:
-- path: "/uploads/morkmice.jpg"
+featured?:
+feature_image: "/uploads/morkmice.jpg"
 ---
 
 When little chef Pierre showed up on Instagram some weeks ago, we simply couldn’t resist his charm. Returned here with his Valentine, he melts our dark chocolate hearts once again.
@@ -24,6 +23,6 @@ Nessa grew up in France but now lives and works in Boston. Her artwork is inspir
 
 [https://www.facebook.com/Frenchpeony](https://www.facebook.com/Frenchpeony)
 
-Make this Valentine’s Day a little more indulgent with a Mörk Specialty Hot Chocolate to your sweetheart. Order now and enter "MORKLOVE" for free shipping up until 14/2. 
+Make this Valentine’s Day a little more indulgent with a Mörk Specialty Hot Chocolate to your sweetheart. Order now and enter "MORKLOVE" for free shipping up until 14/2.
 
 [http://store.morkchocolate.com.au/](http://store.morkchocolate.com.au/)

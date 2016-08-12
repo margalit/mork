@@ -1,18 +1,11 @@
 ---
 title: About
-date: 2014-05-31 12:40:00 +10:00
-featured?: 'true'
-assets:
-- path: "/uploads/cup.jpg"
-  name: cup
-  position: 50% 50%
-- path: "/uploads/hands.jpg"
-  name: hands
-  position: center center
+date: 2016-04-04 03:44:00 Z
+excerpt: Mörk Chocolate is a small business. We have one foot in the world of fine chocolate and one in the world of specialty coffee, with over ten years of professional experience in both Australia and Europe. "Mörk" is Swedish for dark, and the name speaks both to our shared history and our devotion to dark, pure chocolate.
+background_image: "/uploads/about.jpg"
 ---
 
 Mörk Chocolate is a small business. We have one foot in the world of fine chocolate and one in the world of specialty coffee, with over ten years of professional experience in both Australia and Europe. "Mörk" is Swedish for dark, and the name speaks both to our shared history and our devotion to dark, pure chocolate.
-
 
 Why do we dedicate ourselves to chocolate?
 

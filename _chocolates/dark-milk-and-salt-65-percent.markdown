@@ -2,6 +2,7 @@
 title: Dark Milk & Salt 65%
 date: 2016-04-04 05:36:00 Z
 image: "/uploads/darkmilkriversalt.png"
+background_image: "https://hd.unsplash.com/photo-1415226581130-91cb7f52f078"
 details:
   cacao: 65%
   variety: Trinitario

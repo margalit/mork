@@ -10,9 +10,8 @@ tags:
 - 150 errol street
 - errol street
 - north melbourne
-featured?: 
-assets:
-- path: "/uploads/photo.JPG"
+featured?:
+feature_image: "/uploads/photo.JPG"
 ---
 
 We are thrilled to invite you all to our newly opened chocolate brew house, dedicated entirely to the art of liquid chocolate.

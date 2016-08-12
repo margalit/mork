@@ -1,10 +1,8 @@
 ---
 title: We are hiring...
 date: 2015-07-22 22:37:00 +10:00
-featured?: 
-assets:
-- path: "/uploads/IMG_7794.jpg"
-  name: IMG_7794
+featured?:
+feature_image: "/uploads/IMG_7794.jpg"
 ---
 
 **We are hiring**

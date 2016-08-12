@@ -1,16 +1,7 @@
 ---
 title: Find Us
-date: 2014-05-31 02:41:00 Z
-assets:
-- path: "/uploads/contact2.jpg"
-  name: contact2
-  position: center center
-- path: "/uploads/contact3.jpg"
-  name: contact3
-  position: center center
-- path: "/uploads/findus.jpg"
-  name: findus
-  position: center center
+date: 2016-04-04 03:45:00 Z
+background_image: "/uploads/findus.jpg"
 layout: findus
 ---
 

@@ -6,9 +6,8 @@ tags:
 - HOW TO MAKE MORK CHOCOLATE
 - MORK CHOCOLATE
 - HOT CHOCOLATE MELBOURNE
-featured?: 
-assets:
-- path: "/uploads/IMG-8022WW.jpg"
+featured?:
+feature_image: "/uploads/IMG-8022WW.jpg"
 ---
 
 We often get asked how to best prepare our hot chocolate. There are only two secrets to the ultimate Mörk hot chocolate. Take notes:
@@ -31,9 +30,9 @@ This method will give you an intense chocolate with heavier mouth feel and a sil
 
 In a small jug add 200 ml of cold full cream milk. Add 3 heaped tablespoons (30g) of Mörk powder and stir with a spoon until powder is wet. Then steam the chocolate until 65 degrees or slightly hotter than your regular milk and serve.
 
-The guys at Krimper Coffee in Guildford Lane show us how they make it here: [https://vimeo.com/67855327](https://vimeo.com/67855327) 
+The guys at Krimper Coffee in Guildford Lane show us how they make it here: [https://vimeo.com/67855327](https://vimeo.com/67855327)
 ## Mörk at Home
 
-In a pot, add 3-4 really heaped tablespoons of Mörk powder and 100 ml of cold milk. Turn the stove on to medium heat and whisk vigorously while gently heating it to room temperature. When the chocolate is starting to get warm and is silky smooth, add another 100 ml of cold milk, keep whisking and heat gently until just hot and serve. 
+In a pot, add 3-4 really heaped tablespoons of Mörk powder and 100 ml of cold milk. Turn the stove on to medium heat and whisk vigorously while gently heating it to room temperature. When the chocolate is starting to get warm and is silky smooth, add another 100 ml of cold milk, keep whisking and heat gently until just hot and serve.
 
 video guide: [https://vimeo.com/67855327](https://vimeo.com/67855327)

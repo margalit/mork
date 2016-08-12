@@ -1,29 +1,11 @@
 ---
 title: Process
-date: 2014-05-31 12:40:00 +10:00
-assets:
-- path: "/uploads/process4.jpg"
-  name: process4
-  position: center center
-- path: "/uploads/process2.jpg"
-  position: 50% 50%
-- path: "/uploads/process3-1.jpg"
-  name: process3-1
-  position: center center
-- path: "/uploads/process3a.jpg"
-  name: process3a
-  position: top right
-- path: "/uploads/process3.jpg"
-  name: process3
-  position: right top
-- path: "/uploads/process-1.jpg"
-  position: 50% 50%
-- path: "/uploads/process.jpg"
-  name: process
-  position: 50% 50%
+date: 2016-04-04 04:47:00 Z
+excerpt: We craft our Mörk hot chocolate with all-natural, not-so-secret ingredients. Cocoa powder, heavy blocks of pure unsweetened chocolate — 100% cacao liquor — and unrefined coconut blossom sugar.
+background_image: "/uploads/process.jpg"
 ---
 
-We craft our Mörk hot chocolate with all-natural, not-so-secret ingredients. Cocoa powder, heavy blocks of pure unsweetened chocolate — 100% cacao liquor — and unrefined coconut blossom sugar.</p>
+We craft our Mörk hot chocolate with all-natural, not-so-secret ingredients. Cocoa powder, heavy blocks of pure unsweetened chocolate — 100% cacao liquor — and unrefined coconut blossom sugar.
 
 ### Cacao Liquor
 Our liquor is from the cacao growing region of Sur del Lago in south-western Venezuela. Sur del Lago, which literally means 'south of the (Maracaibo) lake', is one of the oldest cacao growing regions in the world. It covers approximately 5,000 hectares of land that is used for cultivating cacao, and has exceptional growing conditions for the more delicate varieties of cacao, such as the comparatively rare and highly aromatic Trinitario variety used for our liquor.
