@@ -1,6 +1,6 @@
 ---
 title: Mörk and Auf Wiedersehen
-date: 2013-06-03 15:27:00 +10:00
+date: 2013-06-03 05:27:00 Z
 tags:
 - MORK CHOCOLATE
 - MORK TEES

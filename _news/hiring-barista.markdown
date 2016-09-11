@@ -1,8 +1,16 @@
 ---
 title: Hiring Barista
+<<<<<<< HEAD
 date: 2016-02-23 22:00:00 +11:00
 featured?:
 feature_image: "/uploads/HIRING.jpg"
+=======
+date: 2016-02-23 11:00:00 Z
+featured?: 
+assets:
+- path: "/uploads/HIRING.jpg"
+  name: HIRING
+>>>>>>> c108e39cbb519ff4bb96460563e7d69412fb5009
 ---
 
 **Mörk Chocolate Brew House, North Melbourne**

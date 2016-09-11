@@ -1,6 +1,6 @@
 ---
 title: Warming Winter Chocolate
-date: 2014-07-02 23:08:00 +10:00
+date: 2014-07-02 13:08:00 Z
 tags:
 - mork chocolate
 - mork

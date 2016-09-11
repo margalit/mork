@@ -1,8 +1,16 @@
 ---
 title: We are hiring ...
+<<<<<<< HEAD
 date: 2016-06-01 12:40:00 +10:00
 featured?:
 feature_image: "/uploads/IMG_9822 (1).jpg"
+=======
+date: 2016-06-01 02:40:00 Z
+featured?: 
+assets:
+- path: "/uploads/IMG_9822 (1).jpg"
+  name: IMG_9822 (1)
+>>>>>>> c108e39cbb519ff4bb96460563e7d69412fb5009
 ---
 
 Bar Position & Floor Staff

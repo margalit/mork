@@ -1,8 +1,16 @@
 ---
 title: We are hiring...
+<<<<<<< HEAD
 date: 2015-07-22 22:37:00 +10:00
 featured?:
 feature_image: "/uploads/IMG_7794.jpg"
+=======
+date: 2015-07-22 12:37:00 Z
+featured?: 
+assets:
+- path: "/uploads/IMG_7794.jpg"
+  name: IMG_7794
+>>>>>>> c108e39cbb519ff4bb96460563e7d69412fb5009
 ---
 
 **We are hiring**
