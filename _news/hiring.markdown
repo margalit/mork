@@ -1,6 +1,6 @@
 ---
 title: We are hiring
-featured?:
+featured?: 
 feature_image: "/uploads/800.jpg"
 ---
 
