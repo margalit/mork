@@ -10,7 +10,7 @@ tags:
 - 150 errol street
 - errol street
 - north melbourne
-featured?:
+featured?: 
 feature_image: "/uploads/photo.JPG"
 ---
 

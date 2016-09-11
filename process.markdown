@@ -1,7 +1,9 @@
 ---
 title: Process
 date: 2016-04-04 04:47:00 Z
-excerpt: We craft our Mörk hot chocolate with all-natural, not-so-secret ingredients. Cocoa powder, heavy blocks of pure unsweetened chocolate — 100% cacao liquor — and unrefined coconut blossom sugar.
+excerpt: We craft our Mörk hot chocolate with all-natural, not-so-secret ingredients.
+  Cocoa powder, heavy blocks of pure unsweetened chocolate — 100% cacao liquor — and
+  unrefined coconut blossom sugar.
 background_image: "/uploads/process.jpg"
 ---
 

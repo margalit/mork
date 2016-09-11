@@ -1,16 +1,8 @@
 ---
 title: Mörk Chocolate UK
-<<<<<<< HEAD
 date: 2016-04-01 07:07:00 +11:00
 featured?:
 feature_image: "/uploads/Mork-9505-1.jpg"
-=======
-date: 2016-03-31 20:07:00 Z
-featured?: 
-assets:
-- path: "/uploads/Mork-9505-1.jpg"
-  name: Mork-9505-1
->>>>>>> c108e39cbb519ff4bb96460563e7d69412fb5009
 ---
 
 We’ve got some really exciting news to share.

@@ -5,7 +5,7 @@ tags:
 - MORK CHOCOLATE
 - DELICIOUS MAGAZINE
 - DELICIOUS.
-featured?:
+featured?: 
 feature_image: "/uploads/delicious-small-blog.jpg"
 ---
 

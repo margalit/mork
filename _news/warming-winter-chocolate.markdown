@@ -18,7 +18,7 @@ tags:
 - melbourne chocolate
 - wholesale chocolate melbourne
 - wholesale chocolate
-featured?:
+featured?: 
 feature_image: "/uploads/morkchocolate.jpg"
 ---
 

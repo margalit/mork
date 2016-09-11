@@ -2,7 +2,7 @@
 title: Junior Dark 50%
 date: 2016-04-04 05:34:00 Z
 image: "/uploads/juniordark.png"
-background_image: "https://hd.unsplash.com/5/unsplash-bonus.jpg"
+background_image: https://hd.unsplash.com/5/unsplash-bonus.jpg
 details:
   cacao: 50%
   variety: Blend

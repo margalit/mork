@@ -1,15 +1,7 @@
 ---
 title: We are hiring
-<<<<<<< HEAD
-date: 2015-01-23 19:07:00 +11:00
 featured?:
 feature_image: "/uploads/800.jpg"
-=======
-date: 2015-01-23 08:07:00 Z
-featured?: 
-assets:
-- path: "/uploads/800.jpg"
->>>>>>> c108e39cbb519ff4bb96460563e7d69412fb5009
 ---
 
 We are looking for a positive, creative and skilled bunch of individuals to join our small but tight team at Mörk. In our concept store / chocolate brew house, due to open in late February, we specialise in serving dark chocolate beverages. We have a chocolate workshop at the back where our chocolate is crafted and recipes created.

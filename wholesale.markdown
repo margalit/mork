@@ -1,7 +1,10 @@
 ---
 title: Wholesale
-date: 2014-05-31 12:40:00 +10:00
-excerpt: There are many things that are common to specialty chocolate and coffee, and we feel strongly that our experience with both have enabled us to bring hot chocolate in Australia - historically a neglected product - up to the same level as the fantastic coffee that is now available in our corner of the world.
+date: 2014-05-31 02:40:00 Z
+excerpt: There are many things that are common to specialty chocolate and coffee,
+  and we feel strongly that our experience with both have enabled us to bring hot
+  chocolate in Australia - historically a neglected product - up to the same level
+  as the fantastic coffee that is now available in our corner of the world.
 background_image: "/uploads/wholesale_16x10-2.jpg"
 ---
 

@@ -6,7 +6,7 @@ tags:
 - SUGARHIT
 - SUGAR HIT MELBOURNE
 - SUGAR HIT
-featured?:
+featured?: 
 feature_image: "/uploads/sugarhit-blog.jpg"
 ---
 
