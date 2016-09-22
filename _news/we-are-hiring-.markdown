@@ -1,7 +1,7 @@
 ---
 title: We are hiring ...
-date: 2016-06-01 12:40:00 +10:00
-featured?:
+date: 2016-06-01 02:40:00 Z
+featured?: 
 feature_image: "/uploads/IMG_9822 (1).jpg"
 ---
 

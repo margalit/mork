@@ -1,7 +1,7 @@
 ---
 title: We are hiring...
 date: 2015-07-22 12:37:00 Z
-featured?:
+featured?: 
 feature_image: "/uploads/IMG_7794.jpg"
 ---
 
