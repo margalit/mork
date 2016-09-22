@@ -6,7 +6,7 @@ layout: default
 <div class="range">
   {% assign chocolates = site.chocolates %}
   {% for chocolate in chocolates %}
-    <div class="range__item" style="background-image: url('{{chocolate.background_image}}')">
+    <div class="range__item">
       <div class="range__content">
         <img class="range__label" src="{{chocolate.image}}" />
         <h2 class="range__title">{{chocolate.title}}</h2>

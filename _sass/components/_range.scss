@@ -1,4 +1,8 @@
 .range {
+  overflow: hidden;
+  max-width: 60rem;
+  margin: auto;
+  margin-bottom: 5rem;
 }
 
 .range__item {
@@ -6,18 +10,23 @@
   background-size: cover;
   background-position: center;
   color: white;
-  &:nth-child(odd) {
-    .range__content {
-      float:left;
-    }
+  float: left;
+  width: 46%;
+  margin: 2rem 2%;
+  background-color: rgba(0,0,0,0.8);
+  &:nth-of-type(odd) {
+    clear: both;
+  }
+  @media screen and (max-width: 550px) {
+    width: 100%;
   }
 }
 
 .range__content {
-  width: 25rem;
-  padding: 3rem 2rem;
-  float: right;
-  background-color: rgba(0,0,0,0.8);
+  width: 100%;
+  max-width: 25rem;
+  margin: auto;
+  padding: 3rem 1rem;
   @media screen and (max-width: 780px) {
     width: 100%;
   }
