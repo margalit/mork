@@ -12,7 +12,8 @@
   color: white;
   float: left;
   width: 46%;
-  margin: 2rem 2%;
+  min-height: 38rem;
+  margin: 2rem 2% 1rem;
   background-color: rgba(0,0,0,0.8);
   &:nth-of-type(odd) {
     clear: both;
