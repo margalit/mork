@@ -1,6 +1,5 @@
 ---
 title: We are hiring
-date: 2015-01-23 08:07:00 Z
 featured?: 
 feature_image: "/uploads/800.jpg"
 ---

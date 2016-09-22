@@ -7,7 +7,7 @@
   {% include head.html %}
 
 
-  <body class="{{page.title}}Page"{% if page.background_image %} style="background-attachment: fixed; background-image: url({{page.background_image}}); background-size: cover; background-position: {{page.background_position| default: 'center'}}; background-color: #999; background-blend-mode: multiply;"{% endif %}>
+  <body class="{{page.title}}Page"{% if page.background_image %} style="background-attachment: fixed; background-image: url({{page.background_image}}); background-size: cover; background-position: {{page.background_position| default: 'center'}}; "{% endif %}>
 
     <div class="main">
       {% include header.html %}
