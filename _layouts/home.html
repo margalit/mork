@@ -13,12 +13,6 @@ layout: default
       <h4><a href="{{column.link}}">Read More</a></h4>
     </article>
   {% endfor %}
-  {% assign latest_post = site.news.first %}
-  <article class="box one col">
-    <h2>{{latest_post.title}}</h2>
-    <p>{{latest_post.excerpt | truncatewords: 25}}</p>
-    <h4><a href="{{latest_post.url}}">Read More</a></h4>
-  </article>
 </div>
 <div class="reviews">
   <h2 class="reviews__heading">

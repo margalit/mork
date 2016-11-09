@@ -8,7 +8,7 @@ columns:
 - title: About
   text: Mörk Chocolate is a small business. We have one foot in the world of fine chocolate and one in the world of specialty coffee, with over ten years of professional experience. 'Mörk' is Swedish for dark, and the name speaks both to our shared history and our devotion to dark, pure chocolate.
   link: "/about/"
-- title: Visit the Mörk Chocolate Brewhouse
+- title: Process
   text: We craft our Mörk hot chocolate with all-natural, not-so-secret ingredients. Cocoa powder, heavy blocks of pure unsweetened chocolate — 100% cacao liquor — and unrefined coconut blossom sugar
   link: "/process/"
 reviews_heading: What other people are saying about Mörk
