@@ -2,7 +2,6 @@
 title: Even Darker 85%
 date: 2016-04-04 05:36:00 Z
 image: "/uploads/evendarker.png"
-background_image: https://hd.unsplash.com/photo-1439466654360-5e8bbd819be5
 details:
   cacao: 85%
   variety: Trinitario
