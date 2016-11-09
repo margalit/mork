@@ -48,7 +48,7 @@ retailers:
   address_2: London, E2 7DG
   website: http://www.holyshotcoffee.com/
 - store: Department of Coffee & Social Affairs
-  address_1:
+  address_1: 
   address_2: London
   website: http://departmentofcoffee.com/
 - store: The Groundworks
