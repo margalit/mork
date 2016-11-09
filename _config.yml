@@ -1,13 +1,7 @@
 ---
-title: Mörk Chocolate
+title: Mörk Chocolate UK
 timezone: UTC
 collections:
-  chocolates:
-    title: Chocolates
-    output: false
-  news:
-    title: News
-    output: true
   posts:
     title: Posts
     output: true
@@ -17,21 +11,13 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: news
-  values:
-    layout: post
-    permalink: "/news/:title/"
-- scope:
-    path: ''
     type: posts
   values:
     layout: post
-    permalink: "/news/:title/"
+    permalink: "/posts/:title/"
 - scope:
     path: ''
     type: pages
   values:
     layout: page
 permalink: pretty
-typekit: wwu7klm
-analytics: UA-34047801-1
