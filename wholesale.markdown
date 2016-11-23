@@ -5,7 +5,6 @@ layout: wholesale
 background_image: "/uploads/wholesale_16x10-2.jpg"
 ---
 
-
 We have to have a simple enquiry form. I’ve sent you the questions, see below …
 
 At Mörk we love businesses that are as passionate as we are about sustainability, transparency and traceability in the artisanal chocolate industry.
