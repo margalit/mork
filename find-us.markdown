@@ -4,13 +4,13 @@ date: 2016-04-04 03:45:00 Z
 background_image: "/uploads/find-us.jpg"
 layout: findus
 opening_hours:
-  - "Monday: closed"
-  - "Tuesday: 9-5"
-  - "Wednesday: 9-5"
-  - "Thursday: 9-5"
-  - "Friday: 9-5"
-  - "Saturday: 9-5"
-  - "Sunday: 9-5"
+- 'Monday: closed'
+- 'Tuesday: 9-5'
+- 'Wednesday: 9-5'
+- 'Thursday: 9-5'
+- 'Friday: 9-5'
+- 'Saturday: 9-5'
+- 'Sunday: 9-5'
 ---
 
 ### Visit our North Melbourne cafe - the Mörk Chocolate Brewhouse
