@@ -23,7 +23,7 @@ directions_text: |-
 layout: findus
 ---
 
-Visit our North Melbourne cafe - the Mörk Chocolate Brewhouse
+Visit our North Melbourne cafe - the Mörk Chocolate Brew House.
 For a true cacao-bean-to-cup experience, our Mörk Chocolate Brewhouse is open to the public- each day except Monday (when we’re busy making chocolates!) from 9am to 5pm.
 
 Located in North Melbourne in a converted 1950s-era bakery, our cafe offers visitors a unique sensory experience - dedicated entirely to specialty chocolate.
