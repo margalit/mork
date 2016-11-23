@@ -4,7 +4,6 @@ date: 2016-04-04 05:36:00 Z
 image: "/uploads/originaldark.png"
 details:
   cacao: 70%
-  variety: Trinitario
   area: Sur Del Lago, Venezuela
   link: http://store.morkchocolate.com.au/product/mork-chocolate
 ---
