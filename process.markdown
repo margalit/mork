@@ -15,8 +15,8 @@ What goes into our chocolate:
 
 The Sur del Lago cacao liquor is characterised by richly distinct notes of ripe red berries, sweet almonds and stone fruit.  
 
-### Organic Cacoa Powder
- The Peruvian single origin cacao powder we use provides mouthfeel, body and balance to our blends,and exhibits a rich, mildly flavoured roast and rounded flavour. Also known as “dutch cacoa", a natural potassium solution is added to accentuate its depth of flavour, and neutralise the high acid notes present in some types of cacao.  
+### Organic Cacao Powder
+ The Peruvian single origin cacao powder we use provides mouthfeel, body and balance to our blends,and exhibits a rich, deep and well-rounded flavour.
 
 ### Organic Unrefined Coconut Blossom Sugar 
 Obtained via a direct, independent trade agreement with a sustainable farm in West Java, Indonesia, our unrefined coconut blossom sugar has been hand selected by the Mörk team for its unique qualities and alignment to our values. Unlike refined sugars, organic unrefined coconut blossom sugar has a low-GI (glycemic index) rating, which is released more gradually into the bloodstream when consumed - meaning it doesn't cause that blood sugar spike (and subsequent crash in energy) that commercial confectionary does. This makes it ideal for diabetics and those watching their sugar intake.
