@@ -14,9 +14,9 @@ location_text: "150 Errol St North Melbourne VIC 3051  \nPhone +61 (03) 9328 138
 directions_text: |-
   We are located just meters away from the #57 tram line, which travels directly to and from Melbourne CBD.
 
-  It takes less than 10 minutes to travel to Mörk by car from the city. It's also short walk or bike ride from Queen Vic Markets, if you need some relaxation in between the bustling energy of Melbourne's crowds.
+  It takes less than 10 minutes to travel to Mörk by car from the city. It's also short walk or bike ride from Queen Vic Market, if you need some relaxation in between the bustling energy of Melbourne's crowds.
 
-  Can't make it to our Brewhouse? Get your chocolate fix at our [online store](http://store.morkchocolate.com.au).
+  Can't make it to our Brew House? Get your chocolate fix at our [online store](http://store.morkchocolate.com.au).
 
   If you’re located in the UK, we’ve got a special [London site](http://morkchocolate.co.uk) just for you."
 layout: findus
