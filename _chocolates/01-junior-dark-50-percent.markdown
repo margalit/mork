@@ -8,4 +8,4 @@ details:
   link: http://store.morkchocolate.com.au/product/mork-chocolate-junior-dark-250g
 ---
 
-Enjoy mouthfuls of rich dark cocoa and toffee like sweetness from coconut sugar. With 50% pure cocoa, we invite you to step into the world of Mörk, yours to uncover through true chocolate flavours.
+Enjoy mouthfuls of rich dark cacao and toffee like sweetness from coconut sugar. With 50% pure cacao, we invite you to step into the world of Mörk, yours to uncover through true chocolate flavours.
