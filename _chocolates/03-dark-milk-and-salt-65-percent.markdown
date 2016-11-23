@@ -4,7 +4,6 @@ date: 2016-04-04 05:36:00 Z
 image: "/uploads/darkmilkriversalt.png"
 details:
   cacao: 65%
-  variety: Trinitario
   area: Sambirano, Madagascar
   link: http://store.morkchocolate.com.au/product/mork-dark-milk-river-salt-65
 ---
