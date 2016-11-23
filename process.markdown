@@ -6,7 +6,7 @@ background_image: "/uploads/process.jpg"
 
  We craft Mörk specialty hot chocolate with all-natural, not-so-secret ingredients. cacao powder; lavish blocks of 100% unsweetened chocolate; organic unrefined coconut blossom sugar ― it's all part of what makes Mörk Chocolate special.
 
-Our ingredients are sourced ethically from local farmers and producers around the world who share our values. To learn more about chocolate traceability, please see our FAQ.
+Our ingredients are sourced ethically from local farmers and producers around the world who share our values. To learn more about how we source our ingredients, read more here.
 
 What goes into our chocolate:
 
