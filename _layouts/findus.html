@@ -11,14 +11,21 @@ layout: default
       <div>
         {{page.content}}
       </div>
-      <div class="">
-        <h3>Opening Hours</h3>
-        {% for day in page.opening_hours %}
-          {{ day }}<br/>
-        {% endfor %}
-      </div>
-      <div class="">
-        <h3>Location</h3>
+      <div class="row cf" style="margin-bottom: 10px">
+        <div class="box one col">
+          <h3>Opening Hours</h3>
+          {% for day in page.opening_hours %}
+            {{ day }}<br/>
+          {% endfor %}
+        </div>
+        <div class="box one col">
+          <h3>Location</h3>
+          {{ page.location_text | markdownify }}
+        </div>
+        <div class="box one col">
+          <h3>General Enquiries</h3>
+          <a href="mailto:contact@morkchcolate.com.au">contact@morkchcolate.com.au</a>
+        </div>
       </div>
       <iframe width="100%" height="350" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=150%20Errol%20Street%2C%20North%20Melbourne%2C%20VIC%2C%203051%2C%20Australia&key=AIzaSyBZ3y-MZsHQ_S8ceO1dEsz8TnmMcm4H-PM"></iframe>
     </div>
