@@ -30,4 +30,4 @@ For a true cacao-bean-to-cup experience, our Mörk Chocolate Brew House is open 
 
 Located in North Melbourne in a converted 1950s-era bakery, our cafe offers visitors a unique sensory experience - dedicated entirely to specialty chocolate.
 
-See our <a href="/uploads/Mork_Menu_V3.pdf" target="_blank">Brewhouse menu here</a>
+See our <a href="/uploads/Mork_Menu_V3.pdf" target="_blank">Brew House menu here</a>
