@@ -8,4 +8,4 @@ details:
   link: http://store.morkchocolate.com.au/product/mork-dark-milk-river-salt-65
 ---
 
-Rich cacao powder, dark milk chocolate, coconut blossom sugar and a pinch of river salt make for a smooth and creamy hot chocolate experience with dark caramel notes, hints of malt and honey and a salty tingle.
+Rich cacao powder, dark milk chocolate, coconut blossom sugar and a pinch of river salt make for a smooth and creamy hot chocolate experience with dark caramel notes, hints of malt and honey, and a salty tingle.
