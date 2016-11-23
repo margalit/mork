@@ -10,9 +10,9 @@ Inspired by Melbourne’s coffee culture ― which is considered by many to be t
 
 In 2012, we created the first Mörk hot chocolate blend using the same approach taken by specialty coffee-makers; with respect for the traceability, quality and unique origin of ingredients all the way from bean to cup. That’s what makes Mörk different from the drinking chocolate you find in supermarkets today.
 
-Since then, the Mörk team has bloomed ― and so has our range. You can find it online or taste it in person at the Mörk Chocolate Brewhouse ― our cafe and on-site cacao roasting facility in North Melbourne, where we serve our specialty hot chocolate blends to loyal locals and everyday chocolate enthusiasts alike.
+Since then, the Mörk team has bloomed ― and so has our range. You can find it online or taste it in person at the Mörk Chocolate Brew House ― our cafe and on-site cacao roasting facility in North Melbourne, where we serve our specialty hot chocolate blends to loyal locals and everyday chocolate enthusiasts alike.
 
-[Visit our Brewhouse](/find-us/)
+[Visit our Brew House](/find-us/)
 
 At Mörk, we focus on the traceability of everything we make. Traceability means knowing ― at every step of production ― what happens to the ingredients we use and the people and practises involved along the way.
 
