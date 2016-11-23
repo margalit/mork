@@ -4,7 +4,6 @@ date: 2016-04-04 05:34:00 Z
 image: "/uploads/juniordark.png"
 details:
   cacao: 50%
-  variety: Blend
   area: Peru
   link: http://store.morkchocolate.com.au/product/mork-chocolate-junior-dark-250g
 ---
