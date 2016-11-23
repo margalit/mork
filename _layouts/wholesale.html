@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="regular content row cf">
+  <article class="threequart">
+    <h2>{{page.title}}</h2>
+    <article>
+      {{page.content | markdownify}}
+    </article>
+    {% include contact-form.html %}
+  </article>
+</div>

@@ -1,0 +1,64 @@
+.form {
+  overflow: hidden;
+}
+
+.fields {
+  padding: 0 1rem;
+  @media screen and (min-width: 780px) {
+    width: 50%;
+    float: left;
+  }
+}
+
+.field {
+  display: block;
+  margin-bottom: 1rem;
+
+  > label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+
+    &.radio-label {
+      display: inline;
+      font-weight: 500;
+      margin-bottom: 0;
+    }
+  }
+
+  > input, textarea {
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 5px;
+    border: 0;
+    width: 100%;
+    padding: 0.75rem;
+
+    &[type="radio"] {
+      margin-right: 0.5rem;
+      margin-bottom: 0.5rem;
+      width: auto;
+    }
+
+    &[type="submit"] {
+      color: #444;
+      font-weight: 700;
+      border-radius: 5px;
+      background: #fff;
+      width: auto;
+      padding: 1rem 2rem;
+      font-family: "source-sans-pro",sans-serif;
+      text-decoration: none;
+      text-transform: uppercase;
+      text-align: center;
+      margin-top: 15px;
+      border: 0;
+      cursor: pointer;
+      margin-bottom: 8px;
+    }
+
+    &.other {
+      margin-top: 5px;
+      display: block;
+    }
+  }
+}
