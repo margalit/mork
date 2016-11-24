@@ -14,6 +14,7 @@ Since then, the Mörk team has bloomed ― and so has our range. You can find it
 
 [Visit our Brew House](/find-us/)
 
+### Traceability
 At Mörk, we focus on the traceability of everything we make. Traceability means knowing ― at every step of production ― what happens to the ingredients we use and the people and practises involved along the way.
 
 While some of our chocolate products are Organic and Fair Trade Certified, we choose not to highlight this on our packaging. While we believe the concept behind Fair Trade is important, it’s not quite enough to ensure that a product has been ethically produced or prepared, or that its quality is guaranteed.
