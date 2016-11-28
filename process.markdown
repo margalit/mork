@@ -26,4 +26,4 @@ Each Mörk blend takes time to create. We sample and test cacao from all over th
 
 Mörk drinking chocolate is produced in small batches to ensure we maintain the quality, consistency and freshness of our product ― no matter where or when you enjoy them. Each 250g bag is packed by hand and packaged in our locally-made custom cylinders, before they’re delivered to retailers, cafés, restaurants and your door. Mörk takes a hands-on approach to every product we sell; in fact, if you’re in the local area you might find your next order personally delivered by one of our chocolate makers themselves.
 
-Need a Mörk fix? Our [online store](http://store.morkchocoloate.com.au) can sort you out, stat!
+Need a Mörk fix? Our [online store](http://store.morkchocolate.com.au) can sort you out, stat!
