@@ -12,7 +12,7 @@ The trip also got us thinking about some of the issues surrounding ethical produ
 
 At Mörk we use fine aromatic cacao that’s been sourced in a way which aligns to those principles, just like artisan coffee roasters would.  We refer to this as **traceability**, which means knowing ― at every step of production ― what happens to the ingredients we’re using and the people and practises involved with them. Yet while the focus is on ethical and organic products, it is not the same as being ‘fair trade certified’. Let us explain why there's more to a label than you might think...
 
-##Firstly, what does it mean to be fair trade certified?##
+**Firstly, what does it mean to be fair trade certified?**
 
 When most people think of a product as ‘fair trade’ (not to be confused with the [Fair Trade organisation](http://fairtrade.com.au) itself), they associate it with supporting ethical and sustainable food sources ― and that’s a good thing.
 
@@ -22,7 +22,7 @@ The fair trade movement came about to put an end to this unethical treatment of 
 
 To us, it makes sense that anybody interested in supporting the communities and natural environments in these countries should support the fair trade ethos. However, this doesn't mean that everything stamped with a fair trade label is really benefiting local communities.
 
-##The problem with fair trade labelling##
+**The problem with fair trade labelling**
 
 Just like we saw from the recent [controversy about Free Range eggs](http://www.abc.net.au/news/2016-03-31/free-range-options-unsatisfactory-choice-says/7285946) ― you can’t always trust a label to be confident that you’re buying an ethical product.
 
@@ -40,7 +40,7 @@ To make it affordable, many farmers will join a cooperative in order to sell the
 ***
 There is some controversy around whether fair trade pricing really makes farmers livelihoods more sustainable. There are also claims that only a small portion of money actually reaches farmers, after funds have been extracted for the management and administration of cooperatives.
 
-##The concept of traceability: a better way forward##
+**The concept of traceability: a better way forward**
 
 Obviously, the concept behind fair trade is important, but it’s not quite enough to ensure that a product has been ethically produced or prepared ― or even that its quality is guaranteed.
 
