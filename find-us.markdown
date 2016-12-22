@@ -3,6 +3,8 @@ title: Find Us
 date: 2016-04-04 03:45:00 Z
 background_image: "/uploads/find-us.jpg"
 opening_hours:
+- 'HOLIDAY CLOSURE:'
+- DEC 25 - JAN 19
 - 'Monday: closed'
 - 'Tuesday: 9-5'
 - 'Wednesday: 9-5'
@@ -10,7 +12,6 @@ opening_hours:
 - 'Friday: 9-5'
 - 'Saturday: 9-5'
 - 'Sunday: 9-5'
-- 'HOLIDAY CLOSURE: DEC 25 - JAN 19'
 location_text: "150 Errol St\nNorth Melbourne VIC 3051  \nPhone: +61 (03) 9328 1386\n\n[store@morkchocolate.com.au](mailto:store@morkchocolate.com.au)"
 directions_text: |-
   We are located just meters away from the #57 tram line, which travels directly to and from Melbourne CBD.
