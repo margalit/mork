@@ -5,6 +5,7 @@ background_image: "/uploads/find-us.jpg"
 opening_hours:
 - 'HOLIDAY CLOSURE:'
 - DEC 25 - JAN 19
+- " "
 - 'Monday: closed'
 - 'Tuesday: 9-5'
 - 'Wednesday: 9-5'
