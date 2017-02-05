@@ -6,7 +6,7 @@ featured?:
 feature_image: "/uploads/IMG_2690%20(1).jpg"
 ---
 
-![IMG_2690 (1).jpg](/uploads/IMG_2690%20(1).jpg)Join us for a very special chocolate & wine pairing night on Valentine’s Day at Mörk Chocolate Brew House in North Melbourne.
+Join us for a very special chocolate & wine pairing night on Valentine’s Day at Mörk Chocolate Brew House in North Melbourne.
 
 
 Guided by sommelier Rochelle Godwin, ex Dinner By Heston, we will taste through five exciting and locally sourced wines, matched with unique chocolate morsels, created especially for the night.
