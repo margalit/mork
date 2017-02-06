@@ -15,7 +15,7 @@ Guided by sommelier Rochelle Godwin, ex Dinner By Heston, we will taste through 
 As always at Mörk Chocolate Brew House, we like to surprise and challenge the traditional, giving you a few unexpected pairings this Valentine’s Day.
 
 
-Price per person is $45. Limited tickets will be available from our [web store](http://store.morkchocolate.com.au/product/chocolate-and-wine-tasting).
+Price per person is $45. Limited tickets are available from our [web store](http://store.morkchocolate.com.au/product/chocolate-and-wine-tasting).
 
 
 Time: 7:00 pm arrival on Tuesday, February 14th
