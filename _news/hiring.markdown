@@ -1,8 +1,8 @@
 ---
 title: We are hiring
 date: 2017-02-21 09:04:00 Z
-Field name:
-  Key: true
+featured?: true
+feature_image: "/uploads/IMG_3089_sm.jpg"
 ---
 
 ![IMG_3089_sm.jpg](/uploads/IMG_3089_sm.jpg)
@@ -41,6 +41,6 @@ With strong verbal skills, a humble, positive and eager to learn attitude, and d
 • Part time and full time hours are available
 
 
-When applying please specify that you have the right to work in Australia, including any visa terms.
+When applying please specify any relevent visa terms.
 
 Send your cover letter and resume to Fritha: **store@morkchocolate.com.au**
