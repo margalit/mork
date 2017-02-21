@@ -5,7 +5,7 @@ featured?: true
 feature_image: "/uploads/IMG_3089_sm.jpg"
 ---
 
-![IMG_3089_sm.jpg](/uploads/IMG_3089_sm.jpg)
+
 At Mörk Chocolate Brew House we are known for our unique concept of dark drinking chocolates, as well as our warm, attentive and knowledgeable FOH team. We are now hiring for floor staff and baristas to join us. 
 
 
