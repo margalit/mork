@@ -1,10 +1,13 @@
 ---
-title: Hiring
+title: We are hiring
 date: 2017-02-21 09:04:00 Z
+Field name:
+  Key: true
 ---
 
-*At Mörk Chocolate Brew House we are known for our unique concept of dark drinking chocolates, as well as our warm, attentive and knowledgeable FOH team. We are now hiring for floor staff and baristas to join us. 
-*
+![IMG_3089_sm.jpg](/uploads/IMG_3089_sm.jpg)
+At Mörk Chocolate Brew House we are known for our unique concept of dark drinking chocolates, as well as our warm, attentive and knowledgeable FOH team. We are now hiring for floor staff and baristas to join us. 
+
 
 **Bar Position at Mörk:**
 
@@ -19,6 +22,8 @@ We are looking for a skilled barista to join our team. You will be working with 
 • Prior knowledge or exposure to specialty beverages through bartending or barista work
 
 • Part time hours are available
+
+
 
 **Floor Staff:**
 
