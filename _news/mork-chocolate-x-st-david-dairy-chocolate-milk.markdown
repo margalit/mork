@@ -24,6 +24,4 @@ In a new collaboration set to raise the standard in chocolate milk, Mörk Chocol
 Released in time to beat the heat of summer and ease drinkers into autumn, Mörk x St. David Dairy chocolate milk combines the values of both small Melbourne businesses: small-scale processing and the utmost attention to quality. The 60 per cent pure dark chocolate milk contains just three ingredients: chocolate, farm-fresh full cream milk and organic coconut blossom sugar. Not a preservative or nasty in sight.
 
 
-Mörk x St. David Dairy chocolate milk is available at 
-**[Mörk Chocolate Brewhouse](http://morkchocolate.com.au/find-us/) (150 Errol Street, North Melbourne)**, 
-the retail shop front at **St. David Dairy (16-18 St. David Street, Fitzroy)** and through select St. David cafes and retailers.
+Mörk x St. David Dairy chocolate milk is available at **[Mörk Chocolate Brewhouse](http://morkchocolate.com.au/find-us/) (150 Errol Street, North Melbourne)**, the retail shop front at **St. David Dairy (16-18 St. David Street, Fitzroy)** and through select St. David cafes and retailers.
