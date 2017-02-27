@@ -1,7 +1,7 @@
 ---
 title: We are hiring
 date: 2017-02-21 09:04:00 Z
-featured?: true
+featured?: 
 feature_image: "/uploads/IMG_3089_sm.jpg"
 ---
 
