@@ -2,7 +2,7 @@
 title: Chocolate and wine tasting
 date: 2017-02-05 09:03:00 Z
 featured?:
-- true
+- 
 feature_image: "/uploads/IMG_2690%20(1).jpg"
 ---
 
