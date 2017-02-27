@@ -25,7 +25,5 @@ Released in time to beat the heat of summer and ease drinkers into autumn, Mörk
 
 
 Mörk x St. David Dairy chocolate milk is available at 
-
 **[Mörk Chocolate Brewhouse](http://morkchocolate.com.au/find-us/) (150 Errol Street, North Melbourne)**, 
-
 the retail shop front at **St. David Dairy (16-18 St. David Street, Fitzroy)** and through select St. David cafes and retailers.
