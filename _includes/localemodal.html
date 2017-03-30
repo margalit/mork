@@ -78,17 +78,19 @@
   }
 </style>
 
-<script language="JavaScript" src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
-
 <script type="text/javascript">
   function checkLocale() {
     var wantsLocale = sessionStorage.getItem('wantsLocale')
     if(!wantsLocale) {
-      if(geoplugin_latitude() < 0) {
-        document.querySelector('.redirect-modal').classList.add('visible')
-        document.querySelector('.redirect-modal__cancel').addEventListener('click', function() {
-          sessionStorage.setItem('wantsLocale', true)
-          document.querySelector('.redirect-modal').classList.remove('visible')
+      if ("geolocation" in navigator) {
+        navigator.geolocation.getCurrentPosition(function(position) {
+          if(position.coords.latitude < 0) {
+            document.querySelector('.redirect-modal').classList.add('visible')
+            document.querySelector('.redirect-modal__cancel').addEventListener('click', function() {
+              sessionStorage.setItem('wantsLocale', true)
+              document.querySelector('.redirect-modal').classList.remove('visible')
+            })
+          }
         })
       }
     }
