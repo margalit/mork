@@ -9,6 +9,8 @@ tags:
 - melbourne coffee
 - CHOCOLATE MELBOURNE
 - MORKCHOCOLATE
+featured?: true
+feature_image: "/uploads/BrewHouse_HDR.jpg"
 ---
 
 *Mörk Chocolate is seeking a passionate and detail-orientated Cafe Manager for our North Melbourne concept store.*
