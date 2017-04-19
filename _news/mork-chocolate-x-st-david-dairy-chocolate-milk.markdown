@@ -14,7 +14,7 @@ tags:
 - hot chocolate
 - chocolate milk
 - best chocolate milk
-featured?: true
+featured?: false
 feature_image: "/uploads/IMG_2878_sm.jpg"
 ---
 
