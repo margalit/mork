@@ -89,7 +89,7 @@ nav ul {
     border-bottom: 1px solid rgba(0, 0, 0, 0.5);
     margin: 0 1em; }
   nav ul li {
-    width: 25%;
+    width: calc(100% / 3);
     float: left;
     border-top: 2px solid rgba(0, 0, 0, 0.5);
     border-left: 1px solid rgba(0, 0, 0, 0.5); }
