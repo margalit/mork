@@ -9,7 +9,7 @@ retailers:
   website: http://www.amoret.co.uk/
 - store: Brooklyn Coffee
   address_1: 139 Commercial St
-  address_2: London, E1 6BJ 
+  address_2: London, E1 6BJ
 - store: Bulldog Edition
   address_1: 100 Shoreditch High St
   address_2: London, E1 6JQ
