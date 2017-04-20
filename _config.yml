@@ -2,22 +2,18 @@
 title: Mörk Chocolate UK
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
+  chocolates:
+    title: Chocolates
+    output: false
   uploads:
     title: Uploads
     output: true
 defaults:
 - scope:
     path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
     type: pages
   values:
     layout: page
 permalink: pretty
+typekit: wwu7klm
+analytics: UA-34047801-
