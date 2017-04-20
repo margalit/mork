@@ -4,26 +4,22 @@ date: 2016-04-04 04:47:00 Z
 background_image: "/uploads/process.jpg"
 ---
 
- We craft Mörk specialty hot chocolate with all-natural, not-so-secret ingredients. cacao powder; lavish blocks of 100% unsweetened chocolate; organic unrefined coconut blossom sugar ― it's all part of what makes Mörk Chocolate special.
-
-Our ingredients are sourced ethically from local farmers and producers around the world who share our values. To learn more about chocolate traceability, please see our FAQ.
-
-What goes into our chocolate:
+We craft our Mörk hot chocolate with all-natural, not-so-secret ingredients. Cocoa powder, heavy blocks of pure unsweetened chocolate — 100% cacao liquor — and unrefined coconut blossom sugar.
 
 ### Cacao Liquor
- It sounds exotic, but cacao liquor is simply honest, unsweetened dark chocolate. Our cacao liquor is sourced from Sur del Lago in South-Western Venezuela. Sur del Lago ― which literally means ‘south of the (Maracaibo) lake’ ― is one of the oldest cacao growing regions in the world. Spanning approximately 5,000 hectares of land, it demonstrates exceptional growing conditions for the more delicate varieties of cacao, such as the rare and aromatic Trinitario variety used in Mörk’s blends.
+Our liquor is from the cacao growing region of Sur del Lago in south-western Venezuela. Sur del Lago, which literally means ‘south of the (Maracaibo) lake’, is one of the oldest cacao growing regions in the world. It covers approximately 5,000 hectares of land that is used for cultivating cacao, and has exceptional growing conditions for the more delicate varieties of cacao, such as the comparatively rare and highly aromatic Trinitario variety used for our liquor.
 
-The Sur del Lago cacao liquor is characterised by richly distinct notes of ripe red berries, sweet almonds and stone fruit.  
+The Sur del Lago cacao liquor has distinct flavours of ripe red berries, sweet almonds and stone fruit, and represents most of the top notes in the final chocolate.
 
-### Organic Cacoa Powder
- The Peruvian single origin cacao powder we use provides mouthfeel, body and balance to our blends,and exhibits a rich, mildly flavoured roast and rounded flavour. Also known as “dutch cacoa", a natural potassium solution is added to accentuate its depth of flavour, and neutralise the high acid notes present in some types of cacao.  
+### Organic Cocoa Powder
+Our single origin cocoa powder is sourced from Peru it provides mouthfeel and balance, by adding body to the blend, alongside rich slightly roasted and rounded flavours. It is so-called “Dutched cocoa”, which means natural potassium solution has been added in the refining process to highlight depth in flavour and lower the highly acidic notes present in some types of cacao.
 
-### Organic Unrefined Coconut Blossom Sugar 
-Obtained via a direct, independent trade agreement with a sustainable farm in West Java, Indonesia, our unrefined coconut blossom sugar has been hand selected by the Mörk team for its unique qualities and alignment to our values. Unlike refined sugars, organic unrefined coconut blossom sugar has a low-GI (glycemic index) rating, which is released more gradually into the bloodstream when consumed - meaning it doesn't cause that blood sugar spike (and subsequent crash in energy) that commercial confectionary does. This makes it ideal for diabetics and those watching their sugar intake.
+Organic Unrefined Coconut Blossom Sugar
+We source our unrefined coconut blossom sugar via direct trade with a sustainable farm in West Java, Indonesia. The unique qualities of this type of low-GI sugar imparts an extremely pleasant savoury taste that discreetly balances the other elements of our hot chocolate. It is also a diabetic friendly sweetener.
 
-### Process
-Each Mörk blend takes time to create. We sample and test cacao from all over the world to arrive at the best possible balance of flavour, texture and consistency. We also blind taste our blends under a range of preparation methods, to ensure you get a consistent result in your cup.
+### The Process
+When creating our blends we source and taste chocolate from many various cacao varieties and origins to find the right balance of flavour as well as good texture in the cup. We blind taste the final blends in hot water as well as with full cream milk before our last bit of tweaking until we’re happy with it.
 
-Mörk drinking chocolate is produced in small batches to ensure we maintain the quality, consistency and freshness of our product ― no matter where or when you enjoy them. Each 250g bag is packed by hand and packaged in our locally-made custom cylinders, before they’re delivered to retailers, cafés, restaurants and your door. Mörk takes a hands-on approach to every product we sell; in fact, if you’re in the local area you might find your next order personally delivered by one of our chocolate makers themselves.
+We produce our small batches of Mörk hot chocolate by finely grating the pure cacao liquor or chocolate and fusing it with the cocoa powder and coconut blossom sugar. A great deal of care is taken with every step of the process to ensure it always tastes as good as we can make it.
 
-Need a Mörk fix? Our [online store](http://store.morkchocoloate.com.au) can sort you out, stat!
+Having prepared every 250g bag by hand and packaged them in our locally made custom cylinders, we then deliver Mörk chocolate to wholesalers, retailers, cafés, restaurants - and to your door.

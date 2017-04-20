@@ -4,12 +4,10 @@ date: 2016-04-04 03:44:00 Z
 background_image: "/uploads/about.jpg"
 ---
 
-Mörk Chocolate are makers of specialty, ethically sourced hot chocolate in Melbourne.
+Mörk Chocolate is a small business. We have one foot in the world of fine chocolate and one in the world of specialty coffee, with over ten years of professional experience. “Mörk” is Swedish for dark, and the name speaks both to our shared history and our devotion to dark, pure chocolate.
 
-Inspired by Melbourne’s coffee culture ― which is considered by many to be the best in the world ― we have made it our mission to bring specialty hot chocolate onto the scene.
+Why do we dedicate ourselves to chocolate?
 
-In 2012, we created the first Mörk hot chocolate blend using the same approach taken by specialty coffee-makers; with respect for the traceability, quality and unique origin of ingredients all the way from bean to cup. That’s what makes Mörk different from the drinking chocolate you find in supermarkets today.
+We have always loved chocolate: one of us since the age of three, sneaking downstairs many a winter night to steal the foil-wrapped chocolate santas from off the Christmas tree, careful to hide the wrappers where no one would find them; the other ever since the very first meeting with that same girl, then an experienced chocolatier, while she was demonstrating the tempering of dark chocolate at a coffee roastery in Sweden.
 
-Since then, the Mörk team has bloomed ― and so has our range. You can find it online or taste it in person at the Mörk Chocolate Brewhouse ― our cafe and on-site cacao roasting facility in North Melbourne, where we serve our specialty hot chocolate blends to loyal locals and everyday chocolate enthusiasts alike.
-
-[Visit the Brewhouse](/find-us/)
+With our dedication to chocolate follows a tremendous amount of respect for the product: we work with the purest form of chocolate—cacao liquor—and the finest cocoa powder, creating our Mörk chocolate blends in small batches to ensure consistency and freshness.

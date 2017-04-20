@@ -14,7 +14,7 @@ layout: default
       {% for retailer in sorted_retailers %}
         <div class="locator__item">
           {% if retailer.website %}
-            <a href="{{ post.meta['Website'] }}">{{retailer.store}}</a>
+            <a href="{{ retailer.website }}">{{retailer.store}}</a>
           {% else %}
             <span>{{retailer.store}}</span>
           {% endif %}
