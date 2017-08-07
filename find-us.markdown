@@ -42,14 +42,6 @@ retailers:
   address_1: 428 St John St,
   address_2: London EC1V 4NJ
   website: http://macintyrecoffee.co.uk/
-- store: NKora
-  address_1: 21 Hackney Road
-  address_2: London, E2 7NX
-  website: http://nkora.co.uk/
-- store: Noble Espresso
-  address_1: Kings Cross, Battle Bridge Place
-  address_2: London N1C 4TB
-  website: http://www.nobleespresso.com
 - store: North&Ten
   address_1: 123 Muswell Hill Rd
   address_2: London, N10 3HS
@@ -68,16 +60,6 @@ retailers:
   address_1: 475 Bethnal Green Rd
   address_2: London E2 9QH
   website: http://secondshotcoffee.co.uk/
-- store: Silkies
-  address_1: 21 Club Row
-  address_2: London, E2 7EY
-- store: Soho Bikes
-  address_1: 26 Berwick St
-  address_2: London, W1F 8RG
-- store: Story Coffee
-  address_1: 115 St John's Hill
-  address_2: London SW11 1SZ
-  website: www.storycoffee.co.uk
 - store: The Bach
   address_1: 12 Broadway Market
   address_2: London, E84TS
@@ -95,6 +77,41 @@ retailers:
 - store: White Mulberries
   address_1: D3 Ivory House, St Katharine Docks
   address_2: London, E1W 1AT
+- store: Treves & Hyde
+  address_1: 15/17 Leman Street, Aldgate
+  address_2: London, E18EN
+- store: I Will Kill Again
+  address_1: 'Arch 216, 27a Ponsford Street, Homerton '
+  address_2: E9 6JU, London
+- store: Tab x Tab
+  address_1: 14-16 Westbourne Grove
+  address_2: " London, W2 5RH"
+- store: Spike + Earl
+  address_1: 31 Peckham Rd, Camberwell
+  address_2: London SE5 8UB
+- store: Rude Health Cafe
+  address_1: 212 New King's Rd, Fulham
+  address_2: London SW6 4NZ
+- store: Millfields Coffee
+  address_1: 168 Millfields Rd
+  address_2: London, E5 0LA
+- store: Pamban
+  address_1: 'Camden Market, North Yard, Chalk Farm Road, Camden '
+  address_2: London, NW1 8AH
+- store: Crosstown Doughnuts
+  address_1: '4 Broadwick St, Soho, '
+  address_2: London, W1F 0DA
+- store: Bernsteins
+  address_1: '73 Chatsworth Rd, '
+  address_2: London, E5 0LH
+- store: Coffee Is My Cup of Tea
+  address_1: 103B Dalston Ln
+  address_2: London, E8 1NH
+- store: Lumberjack
+  address_1: '70 Camberwell Church St, Camberwell '
+  address_2: 'London, SE5 8QZ
+
+'
 layout: findus
 ---
 
