@@ -4,7 +4,7 @@ date: 2016-04-04 03:45:00 Z
 background_image: "/uploads/find-us.jpg"
 opening_hours:
 - 'HOLIDAY CLOSURE:'
-- DEC 25 - JAN 19
+- DEC 25 - JAN 9
 - " "
 - 'Monday: closed'
 - 'Tuesday: 9-5'
