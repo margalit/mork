@@ -12,9 +12,9 @@ Thanks to a couple of new projects on the horizon - including one incredibly exc
 We seek a PASTRY CHEF to join us in working with some of the best product in Melbourne. You will help us continue to create high-level products for our own cafe, and aid in developing new products that showcase the incredibly high quality cacao that we source.
 
 
-## * access to some of the finest chocolate and cacao in the world
-## * begin to specialise in chocolate work
-## * opportunity for growth and advancement
+● access to some of the finest chocolate and cacao in the world
+● begin to specialise in chocolate work
+● opportunity for growth and advancement
 
 
 Working in our North Melbourne production/test kitchen, you will be required to produce a range of pastry cabinet items, as well as components and garnishes for our beverage menu. You will have experience in producing volume cakes and pastries, as well as the ability to both follow recipes and to work independently.
