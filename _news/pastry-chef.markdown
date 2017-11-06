@@ -1,6 +1,8 @@
 ---
 title: Pastry Chef
 date: 2017-11-06 07:58:00 Z
+featured?: true
+feature_image: "/uploads/pastry_chef.jpg"
 ---
 
 **Mörk Chocolate**
