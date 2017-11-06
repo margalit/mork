@@ -11,7 +11,7 @@ feature_image: "/uploads/pastry_chef.jpg"
 Thanks to a couple of new projects on the horizon - including one incredibly exciting new venture - our team is growing again!
 
 
-We seek a PASTRY CHEF to join us in working with some of the best product in Melbourne. You will help us continue to create high-level products for our own cafe, and aid in developing new products that showcase the incredibly high quality cacao that we source.
+We seek a **PASTRY CHEF** to join us in working with some of the best product in Melbourne. You will help us continue to create high-level products for our own cafe, and aid in developing new products that showcase the incredibly high quality cacao that we source.
 
 
 ● access to some of the finest chocolate and cacao in the world
