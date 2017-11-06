@@ -9,7 +9,7 @@ tags:
 - melbourne coffee
 - CHOCOLATE MELBOURNE
 - MORKCHOCOLATE
-featured?: true
+featured?: 
 feature_image: "/uploads/BrewHouse_HDR.jpg"
 ---
 
