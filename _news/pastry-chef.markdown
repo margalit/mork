@@ -3,7 +3,7 @@ title: Pastry Chef
 date: 2017-11-06 07:58:00 Z
 ---
 
-**PASTRY CHEF**
+**Mörk Chocolate**
 
 
 Thanks to a couple of new projects on the horizon - including one incredibly exciting new venture - our team is growing again!
