@@ -27,4 +27,4 @@ Working in our North Melbourne production/test kitchen, you will be required to 
 You will be working daytime hours alongside our Head Pastry Chef and our Development Chef. The role will be about 30hrs per week to start with, with the right candidate moving to full-time as we launch our new venture early in the new year.
 
 
-**Contact: Adam Del Mastro - adam@morkchocolate.com**
+**Contact: Adam Del Mastro - adam@morkchocolate.com.au**
