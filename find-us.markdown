@@ -52,10 +52,9 @@ retailers:
   address_1: Fulham Broadway shopping centre
   address_2: London, SW6 1BW
   website: http://www.pitch.coffee/
-- store: Saint Espresso
-  address_1: 26 Pentonville Road
-  address_2: London N1 9HJ
-  website: http://www.saintespresso.com
+- store: Coffee House 607
+  address_1: 607 Holloway Road
+  address_2: London N19 4DJ
 - store: Second Shot Coffee
   address_1: 475 Bethnal Green Rd
   address_2: London E2 9QH
@@ -101,9 +100,9 @@ retailers:
 - store: Crosstown Doughnuts
   address_1: '4 Broadwick St, Soho, '
   address_2: London, W1F 0DA
-- store: Bernsteins
-  address_1: '73 Chatsworth Rd, '
-  address_2: London, E5 0LH
+- store: Black Swan Yard Coffee
+  address_1: 37a Bermondsey St
+  address_2: London, SE1 3JW
 - store: Coffee Is My Cup of Tea
   address_1: 103B Dalston Ln
   address_2: London, E8 1NH
