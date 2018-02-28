@@ -111,6 +111,12 @@ retailers:
   address_2: 'London, SE5 8QZ
 
 '
+- store: Popina
+  address_1: 83 Duke Street
+  address_2: London,  W1K 5PF
+- store: Rosslyn Coffee
+  address_1: 78 Queen Victoria St
+  address_2: London, EC4N 4SJ
 layout: findus
 ---
 
