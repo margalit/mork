@@ -42,9 +42,9 @@ retailers:
   address_1: 428 St John St,
   address_2: London EC1V 4NJ
   website: http://macintyrecoffee.co.uk/
-- store: North&Ten
-  address_1: 123 Muswell Hill Rd
-  address_2: London, N10 3HS
+- store: 640 East
+  address_1: 'Montgomery Square, Upper Bank Street, Canary Wharf '
+  address_2: London, E14 5JJ
 - store: Outpost Coffee Roasters
   address_1: 4 Stoney St
   address_2: Nottingham, NG1 1LG
@@ -103,9 +103,9 @@ retailers:
 - store: Black Swan Yard Coffee
   address_1: 37a Bermondsey St
   address_2: London, SE1 3JW
-- store: Coffee Is My Cup of Tea
-  address_1: 103B Dalston Ln
-  address_2: London, E8 1NH
+- store: Flying Horse Coffee
+  address_1: 117 Mare Street (Mare Street Market)
+  address_2: London, E8 4RU
 - store: Lumberjack
   address_1: '70 Camberwell Church St, Camberwell '
   address_2: 'London, SE5 8QZ
@@ -117,6 +117,24 @@ retailers:
 - store: Rosslyn Coffee
   address_1: 78 Queen Victoria St
   address_2: London, EC4N 4SJ
+- store: 'Altitude '
+  address_1: 35 Clifton Hill
+  address_2: Brighton, BN1 3HQ
+- store: Down to Earth Coffee
+  address_1: 75 Western Road
+  address_2: Hove, BN3 2JQ
+- store: Cuppa Café
+  address_1: 86 rue de l'Université
+  address_2: Paris,  France
+- store: Middletown Coffee Company
+  address_1: '60-64 Lower Mill St, '
+  address_2: Ballymena, Northern Ireland
+- store: The Pelican Coffee Company
+  address_1: Pelikangasse 4
+  address_2: Vienna, Austria
+- store: Just Coffee
+  address_1: Hornergasse 15
+  address_2: Zurich, Switzerland
 layout: findus
 ---
 
