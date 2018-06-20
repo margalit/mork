@@ -95,7 +95,7 @@ retailers:
   address_1: 168 Millfields Rd
   address_2: London, E5 0LA
 - store: Pamban
-  address_1: Camden Market, North Yard, Chalk Farm Road
+  address_1: Camden Market, North Yard, Chalk Farm Rd
   address_2: London, NW1 8AH
 - store: Crosstown Doughnuts
   address_1: '4 Broadwick St, Soho, '
@@ -135,6 +135,12 @@ retailers:
 - store: Just Coffee
   address_1: Hornergasse 15
   address_2: Zurich, Switzerland
+- store: The Meal Ticket
+  address_1: 19 Sheldon Square
+  address_2: London, W2 6PY
+- store: Balcone
+  address_1: 176 Victoria Park Road
+  address_2: London, E9 7HD
 layout: findus
 ---
 
