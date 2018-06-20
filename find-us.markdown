@@ -85,9 +85,9 @@ retailers:
 - store: Tab x Tab
   address_1: 14-16 Westbourne Grove
   address_2: " London, W2 5RH"
-- store: Spike + Earl
-  address_1: 31 Peckham Rd, Camberwell
-  address_2: London SE5 8UB
+- store: Coal Rooms
+  address_1: 11a Station Way
+  address_2: London SE15 4RX
 - store: Rude Health Cafe
   address_1: 212 New King's Rd, Fulham
   address_2: London SW6 4NZ
