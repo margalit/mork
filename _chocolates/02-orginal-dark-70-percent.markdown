@@ -8,4 +8,4 @@ details:
   link: http://store.morkchocolate.co.uk/product/mork-chocolate
 ---
 
-Our original blend is crafted with cocoa powder, 100% cacao liquor and sweetened only with unrefined coconut blossom sugar. Notes of stone fruit, almonds and ripe berries are rounded off with hints of toffee and lingering dark chocolate.
+Our original blend is crafted with cocoa powder, 100% cacao liquor and sweetened only with unrefined coconut blossom sugar. Notes of stone fruit, almonds, and ripe berries are rounded off with hints of toffee and lingering dark chocolate.
