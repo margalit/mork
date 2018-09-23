@@ -1,6 +1,9 @@
 ---
 title: Head Pastry Chef
-date: 2017-11-06 07:58:00 Z
+date: 2018-09-02 14:00:00 Z
+categories:
+- mork chocolate
+- sot by mork
 featured?: true
 feature_image: "/uploads/HEAD-PASTRY-CHEF.jpg"
 ---
