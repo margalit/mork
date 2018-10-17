@@ -141,6 +141,9 @@ retailers:
 - store: Balcone
   address_1: 176 Victoria Park Road
   address_2: London, E9 7HD
+- store: Little Lane Coffee Company
+  address_1: 10 Abbygate Street Upper
+  address_2: Galway, Co. Galway, Ireland
 layout: findus
 ---
 
