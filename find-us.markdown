@@ -158,7 +158,6 @@ layout: findus
 
 General & Sales Enquiries
 
-
-[hello@morkchocolate.co.uk](mailto:hello@morkchocolate.co.uk)
+<p style="text-align:center">[hello@morkchocolate.co.uk]</p>(mailto:hello@morkchocolate.co.uk)
 
 Arch C, Rotary Walk, Hackney Downs Studios, 17 Amhurst Terrace, London, E8 2BT
