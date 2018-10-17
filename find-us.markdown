@@ -103,7 +103,7 @@ retailers:
 - store: Millfields Coffee
   address_1: 168 Millfields Rd
   address_2: London, E5 0LA
-- store: oheim
+- store: Oheim
   address_1: Oppenheimer Landstraße 48
   address_2: 'Frankfurt am Main, Germany  '
   website: http://oheim.coffee
