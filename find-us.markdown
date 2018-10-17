@@ -144,6 +144,11 @@ retailers:
 - store: Little Lane Coffee Company
   address_1: 10 Abbygate Street Upper
   address_2: Galway, Co. Galway, Ireland
+- store: Level Crossings Records
+  address_1: '49 Sheen Lane
+
+'
+  address_2: London, SW14 8AB
 layout: findus
 ---
 
