@@ -150,6 +150,9 @@ retailers:
 - store: Inside the 22
   address_1: 2 Lawrence Sheriff Street
   address_2: Rugby, CV22 5EJ
+- store: Forge Hygge Coffee Lounge
+  address_1: Lewes Road, Ringmer
+  address_2: Lewes, BN8 5NB
 layout: findus
 ---
 
