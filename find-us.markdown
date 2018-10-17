@@ -10,9 +10,9 @@ retailers:
 - store: Brooklyn Coffee
   address_1: 139 Commercial St
   address_2: London, E1 6BJ
-- store: Bulldog Edition
-  address_1: 100 Shoreditch High St
-  address_2: London, E1 6JQ
+- store: Long & Short Coffee Roasters
+  address_1: Tea Rooms Market, Dray Walk, Brick Lane
+  address_2: London, E1 6UR
 - store: Carmel by the Green
   address_1: 287A Cambridge Heath Rd
   address_2: London E2 0EL
@@ -94,9 +94,9 @@ retailers:
 - store: Millfields Coffee
   address_1: 168 Millfields Rd
   address_2: London, E5 0LA
-- store: Pamban
-  address_1: Camden Market
-  address_2: London, NW1 8AH
+- store: oheim
+  address_1: Oppenheimer Landstraße 48
+  address_2: 'Frankfurt am Main, Germany  60596 '
 - store: Crosstown Doughnuts
   address_1: '4 Broadwick St, Soho, '
   address_2: London, W1F 0DA
