@@ -147,6 +147,9 @@ retailers:
 - store: Level Crossings Records
   address_1: 49 Sheen Lane
   address_2: London, SW14 8AB
+- store: Inside the 22
+  address_1: 2 Lawrence Sheriff Street
+  address_2: Rugby, CV22 5EJ
 layout: findus
 ---
 
