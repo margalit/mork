@@ -43,7 +43,7 @@ retailers:
   address_2: London EC1V 4NJ
   website: http://macintyrecoffee.co.uk/
 - store: 640 East
-  address_1: Montgomery Square, Upper Bank Street
+  address_1: Montgomery Square
   address_2: London, E14 5JJ
 - store: Outpost Coffee Roasters
   address_1: 4 Stoney St
