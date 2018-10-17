@@ -10,6 +10,7 @@ retailers:
 - store: Brooklyn Coffee
   address_1: 139 Commercial St
   address_2: London, E1 6BJ
+  webpage: http://www.brooklyncoffee.co.uk/
 - store: Long & Short Coffee Roasters
   address_1: Tea Rooms Market, Dray Walk, Brick Lane
   address_2: London, E1 6UR
@@ -30,6 +31,7 @@ retailers:
 - store: Grindsmith
   address_1: 231 - 233 Deansgate
   address_2: Manchester, M3 4EN
+  website: https://www.grindsmith.com/
 - store: Holy Shot
   address_1: 155 Bethnal Green Road
   address_2: London, E2 7DG
@@ -62,6 +64,7 @@ retailers:
 - store: The Bach
   address_1: 12 Broadway Market
   address_2: London, E8 4TS
+  website: http://www.wearethebach.com/
 - store: The Fat Duck
   address_1: High Street
   address_2: Bray,  SL6 2AQ
@@ -73,24 +76,30 @@ retailers:
 - store: The Watch House
   address_1: 199 Bermondsey St
   address_2: London , SE1 3UW
+  website: https://www.thewatchhouse.com/
 - store: White Mulberries
   address_1: St Katharine Docks
   address_2: London, E1W 1AT
+  website: https://www.whitemulberries.com/
 - store: Treves & Hyde
   address_1: 15/17 Leman Street, Aldgate
   address_2: London, E1 8EN
+  website: https://trevesandhyde.com/
 - store: I Will Kill Again
   address_1: Arch 216, 27a Ponsford St
   address_2: " London, E9 6JU"
 - store: Tab x Tab
   address_1: 14-16 Westbourne Grove
   address_2: " London, W2 5RH"
+  website: www.tabxtab.com
 - store: Coal Rooms
   address_1: 11a Station Way
   address_2: London , SE15 4RX
+  website: https://www.coalroomspeckham.com/
 - store: Rude Health Cafe
   address_1: 212 New King's Rd
   address_2: London, SW6 4NZ
+  website: https://rudehealth.com/rude-health-cafe/
 - store: Millfields Coffee
   address_1: 168 Millfields Rd
   address_2: London, E5 0LA
@@ -107,17 +116,21 @@ retailers:
 - store: Flying Horse Coffee
   address_1: '117 Mare Street '
   address_2: London, E8 4RU
+  website: http://barworks.com/fhc
 - store: Lumberjack
   address_1: 70 Camberwell Church St
   address_2: 'London, SE5 8QZ
 
 '
+  website: https://wearelumberjack.co.uk/
 - store: Popina
   address_1: 83 Duke Street
   address_2: London,  W1K 5PF
+  website: http://www.popina.co.uk/
 - store: Rosslyn Coffee
   address_1: 78 Queen Victoria St
   address_2: London, EC4N 4SJ
+  website: https://www.rosslyncoffee.com/
 - store: 'Altitude '
   address_1: 35 Clifton Hill
   address_2: Brighton, BN1 3HQ
@@ -130,18 +143,21 @@ retailers:
 - store: Middletown Coffee Company
   address_1: 60-64 Lower Mill St
   address_2: Ballymena, Northern Ireland
+  website: http://www.middletowncoffee.co/
 - store: The Pelican Coffee Company
   address_1: Pelikangasse 4
   address_2: Vienna, Austria
 - store: Just Coffee
   address_1: Hornergasse 15
   address_2: Zurich, Switzerland
+  website: http://just-coffee.ch/index.php/2387.html
 - store: The Meal Ticket
   address_1: 19 Sheldon Square
   address_2: London, W2 6PY
 - store: Balcone
   address_1: 176 Victoria Park Road
   address_2: London, E9 7HD
+  website: https://www.balcone.co.uk/
 - store: Little Lane Coffee Company
   address_1: 10 Abbygate Street Upper
   address_2: Galway, Co. Galway, Ireland
