@@ -94,9 +94,10 @@ retailers:
 - store: Millfields Coffee
   address_1: 168 Millfields Rd
   address_2: London, E5 0LA
-- store: Oheim
+- store: oheim
   address_1: Oppenheimer Landstraße 48
   address_2: 'Frankfurt am Main, Germany  '
+  website: http://oheim.coffee
 - store: Crosstown Doughnuts
   address_1: '4 Broadwick St '
   address_2: London, W1F 0DA
