@@ -104,7 +104,7 @@ retailers:
   address_1: 37a Bermondsey St
   address_2: London, SE1 3JW
 - store: Flying Horse Coffee
-  address_1: 117 Mare Street (Mare Street Market)
+  address_1: '117 Mare Street '
   address_2: London, E8 4RU
 - store: Lumberjack
   address_1: 70 Camberwell Church St
