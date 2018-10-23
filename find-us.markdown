@@ -14,6 +14,7 @@ retailers:
 - store: Long & Short Coffee Roasters
   address_1: Tea Rooms Market, Dray Walk, Brick Lane
   address_2: London, E1 6UR
+  website: https://longandshort.london/
 - store: Carmel by the Green
   address_1: 287A Cambridge Heath Rd
   address_2: London,  E2 0EL
