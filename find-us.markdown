@@ -200,6 +200,9 @@ retailers:
   address_1: Vlietweg 15
   address_2: Leidschendam, Netherlands
   website: https://viltercoffee.nl/
+- store: DRIP Coffee Shop
+  address_1: Str. 11 Iunie Nr. 35
+  address_2: Bucharest, Romania
 layout: findus
 ---
 
