@@ -41,10 +41,9 @@ retailers:
   address_1: 41 Rosebery Avenue
   address_2: London, EC1R 4SH
   website: http://www.koacoffeetogo.co.uk/
-- store: MacIntyre Coffee
+- store: Near and Far Cafe
   address_1: 428 St John St,
   address_2: London, EC1V 4NJ
-  website: http://macintyrecoffee.co.uk/
 - store: 640 East
   address_1: Montgomery Square
   address_2: London, E14 5JJ
@@ -171,6 +170,36 @@ retailers:
 - store: Forge Hygge Coffee Lounge
   address_1: Lewes Road, Ringmer
   address_2: Lewes, BN8 5NB
+- store: Omotesando Koffee
+  address_1: 8 Newman Street
+  address_2: London, W1T 1P
+- store: Brother Marcus
+  address_1: 9 Chestnut Grove
+  address_2: London, SW12 8JA
+- store: 'Chapter Coffee '
+  address_1: 137 North End Road
+  address_2: London, W14 8XU
+  website: https://www.chaptercoffee.com/
+- store: F. Mondays
+  address_1: 112A Brixton Hill
+  address_2: London SW2 1AH
+  website: http://www.fmondayscoffee.com/
+- store: Guld Kaffe and Kök
+  address_1: Eastmansvägen 10
+  address_2: Stockholm, Sweden
+- store: Lundenwic
+  address_1: 45 Aldwych
+  address_2: London, WC2B 4DR
+- store: Lowdown Coffee
+  address_1: 40 George Street
+  address_2: Edinburgh, EH2 2LE
+- store: My Little Melbourne
+  address_1: Madách Imre út 3
+  address_2: Budapest, Hungry
+- store: Vilter Coffee
+  address_1: Vlietweg 15
+  address_2: Leidschendam, Netherlands
+  website: https://viltercoffee.nl/
 layout: findus
 ---
 
