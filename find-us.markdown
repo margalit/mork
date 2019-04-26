@@ -131,9 +131,9 @@ retailers:
   address_1: 78 Queen Victoria St
   address_2: London, EC4N 4SJ
   website: https://www.rosslyncoffee.com/
-- store: 'Altitude '
-  address_1: 35 Clifton Hill
-  address_2: Brighton, BN1 3HQ
+- store: Roots Coffee
+  address_1: Rīgas gatve 5
+  address_2: Ādaži, Latvia
 - store: Down to Earth Coffee
   address_1: 75 Western Road
   address_2: Hove, BN3 2JQ
