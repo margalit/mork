@@ -22,5 +22,3 @@ You will inspire and train your small team and lead and collaborate on the devel
 
 This is a great opportunity for the right candidate!
 Resumes to kim@morkchocolate.com.au!
-
-[IMG_9037_final-764ee5.jpg](/uploads/IMG_9037_final-764ee5.jpg)
