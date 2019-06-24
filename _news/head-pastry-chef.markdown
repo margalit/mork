@@ -1,20 +1,24 @@
 ---
 title: Head Pastry Chef
-date: 2018-09-22 14:00:00 Z
+date: 2019-06-24 14:00:00 Z
 categories:
 - mork chocolate
 - sot by mork
 featured?: true
-feature_image: "/uploads/HEAD-PASTRY-CHEF.jpg"
+feature_image: "/uploads/IMG_9037_final.jpg"
 ---
 
-After successfully launching [Söt by Mörk](http://sotbymork.com.au) - our new wholesale cake company - we are now seeking a **HEAD PASTRY CHEF** to join us, working to create and produce products for both our wholesale cake folio and North Melbourne concept store, and aiding in the development of new products that showcase the incredible flavours found in some of the best chocolate in the world.
+With our growing sister brand, [Söt by Mörk](http://sotbymork.com.au), we have an exciting opening for an experienced **HEAD PASTRY CHEF** to join us in our North Melbourne production/test kitchen.
 
 
-Working in our North Melbourne production/test kitchen, we are seeking a pastry chef with experience managing a kitchen, and ideally who has also spent time working with chocolate.
+We are seeking a Pastry Chef with experience managing a kitchen, ideally who has also spent time in restaurant pastry kitchens and working with chocolate.
 
 
-The role is full-time with an immediate start
+You will lead product development and production for both our wholesale cake folio for Söt by Mörk and for Mörk Chocolate Brew House
 
 
-**Resumes: adam@morkchocolate.com.au**
+You will inspire and train your small team and lead and collaborate on the development of new products that showcase locally sourced ingredients and the incredible flavours found in some of the best cacao and chocolate in the world.
+
+
+This is a great opportunity for the right candidate!
+Resumes to kim@morkchocolate.com.au
