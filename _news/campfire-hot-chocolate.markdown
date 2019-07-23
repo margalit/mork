@@ -1,7 +1,6 @@
 ---
 title: Campfire Hot Chocolate
 date: 2019-07-23 10:39:00 Z
-published: false
 categories:
 - mork chocolate
 - campfire hot chocolate
