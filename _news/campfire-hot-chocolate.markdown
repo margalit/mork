@@ -29,5 +29,6 @@ However, one creation stood out amongst the offering - a smokey, interactive, th
 An instant Insta hit, the beverage went viral as much for its presentation as for its story: intended as a way for our founder Josefin Zernell to recreate her Swedish childhood memories of drinking chocolate by the fire, Campfire uses maplewood smoke, torched house-made marshmallow, and charcoal salt to accompany their signature ‘Original Dark’ 70% cacao drinking chocolate in creating a truly sensory experience.
 
 
-Our **Campfire Hot Chocolate** is available exclusively at the [**Mörk Chocolate Brewhouse**](http://morkchocolate.com.au/find-us/) - 150 Errol Street, North Melbourne.
-The Brew House is open from 9am-5pm Tuesday to Sunday.![campfire hot chocolate web-84feea.jpg](/uploads/campfire%20hot%20chocolate%20web-84feea.jpg)
+Our **Campfire Hot Chocolate** is available exclusively at the 
+[**Mörk Chocolate Brewhouse**](http://morkchocolate.com.au/find-us/) - 150 Errol Street, North Melbourne.
+The Brew House is open from 9am-5pm Tuesday to Sunday.
