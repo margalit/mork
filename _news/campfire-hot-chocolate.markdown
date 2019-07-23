@@ -31,4 +31,4 @@ An instant Insta hit, the beverage went viral as much for its presentation as fo
 
 
 Our **Campfire Hot Chocolate** is available exclusively at the [**Mörk Chocolate Brewhouse**](http://morkchocolate.com.au/find-us/) - 150 Errol Street, North Melbourne.
-The Brew House is open from 9am-5pm Tuesday to Sunday.
+The Brew House is open from 9am-5pm Tuesday to Sunday.![campfire hot chocolate web-84feea.jpg](/uploads/campfire%20hot%20chocolate%20web-84feea.jpg)
