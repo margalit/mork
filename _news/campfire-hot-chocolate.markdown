@@ -13,7 +13,7 @@ tags:
 - MORK
 - mork chocolate brew house
 - chocolate signature drink
-featured?: true
+featured?: false
 feature_image: "/uploads/campfire%20hot%20chocolate%20web.jpg"
 ---
 
