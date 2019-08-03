@@ -1,6 +1,19 @@
 ---
 title: Campfire Hot Chocolate Place
 date: 2019-08-03 01:02:00 Z
+categories:
+- hot chocolate
+- campfire chocolate
+- campfire hot chocolate
+tags:
+- MORK CHOCOLATE
+- found on google
+- foundongoogle
+- campfire hot chocolate
+- campfire hot chocolate place
+- campfire chocolate
+- timout melbourne
+- timeout
 ---
 
 VOTE & WIN
