@@ -14,6 +14,8 @@ tags:
 - campfire chocolate
 - timout melbourne
 - timeout
+featured?: true
+feature_image: "/uploads/tofa-mel-sigsearch--nom-insta-campfire.jpg"
 ---
 
 VOTE & WIN
@@ -26,6 +28,7 @@ WIN by voting [HERE](https://timeoutaustralia.events/melbourne/). You can also s
 
 
 **Mörk Chocolate Brew House** - Campfire Hot Chocolate Place is open.
+
 **Tuesday - Sunday 9am - 5pm**
 
 
