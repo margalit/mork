@@ -19,6 +19,7 @@ feature_image: "/uploads/tofa-mel-sigsearch--nom-insta-campfire.jpg"
 ---
 
 VOTE & WIN
+
 Love our Campfire Hot Chocolate? So does Google!
 
 We are excited because we've been identified as a signature dish worth searching for in this year's Time Out Food Awards!! 
